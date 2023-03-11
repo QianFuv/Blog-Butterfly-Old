@@ -15,7 +15,7 @@ jobs:
       - name: 安装 Node
         uses: actions/setup-node@v1
         with:
-          node-version: "12.x"
+          version: ${{ matrix.node_version }}
 
       - name: 安装 Hexo
         env:
@@ -25,18 +25,6 @@ jobs:
           npm install hexo-cli -g
           git config --global user.name "QianF"
           git config --global user.email "576765349@qq.com"
-          
-      - name: 缓存 Hexo
-        uses: actions/cache@v1
-        id: cache
-        with:
-          path: node_modules
-          key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
-
-      - name: 安装依赖
-        if: steps.cache.outputs.cache-hit != 'true'
-        run: |
-          npm install --save
 
       - name: 生成静态文件
         run: |
