@@ -1,0 +1,121 @@
+/*文章卡片文字居中*/
+.recent-post-info {
+    text-align: center;
+}
+
+/* 页脚透明 */
+#footer {
+    background: transparent !important;
+}
+
+/*文章、分类、标签统计信息隐藏*/
+#aside-content>div.card-widget.card-info>div.card-info-data.site-data.is-center {
+    display: none !important;
+}
+
+/*手机版菜单按钮隐藏
+#toggle-menu>a {
+    display: none !important;
+}
+*/
+/*导航栏透明*/
+#nav {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+
+/*标题栏文字颜色*/
+#page-header.not-top-img #nav a,
+#page-header.not-top-img #nav .site-name {
+    color: #ffffff;
+}
+
+/*文章卡片高度*/
+#recent-posts>div {
+    height: 10em !important;
+}
+
+/*调整目录位置*/
+#page-header.fixed+.layout>.aside-content>.sticky_layout {
+    top: 0px;
+}
+
+/*加载动画*/
+.loading-img {
+    background: url(https://vip2.loli.io/2023/02/24/78svlbO5q2KYIgc.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+/*标题文字居中*/
+#post-info>h1 {
+    text-align: center;
+}
+
+/*分享按钮*/
+#post>div.tag_share {
+    display: none !important;
+}
+
+/*twikoo美化*/
+#twikoo>div.tk-footer {
+    display: none !important;
+}
+
+/*说说优化*/
+#uploadSource {
+    display: none !important;
+}
+
+/*友链说说标题居中*/
+#page>h1 {
+    text-align: center;
+}
+
+/*手机界面隐藏文章分类标签显示*/
+#sidebar-menus>div.sidebar-site-data.site-data.is-center {
+    display: none !important;
+}
+
+/*标题栏动画删除*/
+#nav *::after {
+    background-color: transparent !important;
+}
+
+/*搜索按钮文字隐藏*/
+#search-button>a>span {
+    display: none !important;
+}
+
+/*标题栏按钮文字隐藏*/
+#menus>div.menus_items>div>a>span {
+    display: none !important;
+}
+
+/*手机页面list按钮隐藏*/
+#sidebar-menus>div.menus_items>div>a {
+    display: none !important;
+}
+
+/*手机目录美化*/
+#sidebar-menus>div.menus_items>div>ul>li:nth-child(1)>a {
+    text-indent: 63px;
+}
+
+#sidebar-menus>div.menus_items>div>ul>li:nth-child(2)>a {
+    text-indent: 63px;
+}
+
+#sidebar-menus>div.menus_items>div>ul>li:nth-child(3)>a {
+    text-indent: 63px;
+}
+
+/*关闭滚动条*/
+::-webkit-scrollbar {
+    display: none !important;
+}
+
+/*隐藏表情按钮*/
+#loadEmoji {
+    display: none !important;
+}
