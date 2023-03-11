@@ -25,6 +25,7 @@ jobs:
           npm install hexo-cli -g
           git config --global user.name "QianF"
           git config --global user.email "576765349@qq.com"
+          npm install
 
       - name: 生成静态文件
         run: |
