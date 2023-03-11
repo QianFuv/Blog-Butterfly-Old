@@ -18,24 +18,17 @@ jobs:
           node-version: "12.x"
 
       - name: 安装 Hexo
+        env:
+          ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_SECRET }}
         run: |
-          export TZ='Asia/Shanghai'
+          mkdir -p ~/.ssh/
+          echo "$ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git config --global user.name "QianF"
+          git config --global user.email "576765349@qq.com"
           npm install hexo-cli -g
-          npm install yuque-hexo -g
-          yuque-hexo clean
-          yuque-hexo sync
-
-      - name: 缓存 Hexo
-        uses: actions/cache@v1
-        id: cache
-        with:
-          path: node_modules
-          key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
-
-      - name: 安装依赖
-        if: steps.cache.outputs.cache-hit != 'true'
-        run: |
-          npm install --save
+          npm install
 
       - name: 生成静态文件
         run: |
@@ -44,6 +37,7 @@ jobs:
 
       - name: 部署
         run: |
-          git config --global user.name "Zfour"
-          git config --global user.email "499984532@qq.com"
           hexo deploy
+
+
+          
