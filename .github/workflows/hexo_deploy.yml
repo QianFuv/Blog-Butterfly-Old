@@ -21,14 +21,22 @@ jobs:
         env:
           ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_SECRET }}
         run: |
-          mkdir -p ~/.ssh/
-          echo "$ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          export TZ='Asia/Shanghai'
+          npm install hexo-cli -g
           git config --global user.name "QianF"
           git config --global user.email "576765349@qq.com"
-          npm install hexo-cli -g
-          npm install
+          
+      - name: 缓存 Hexo
+        uses: actions/cache@v1
+        id: cache
+        with:
+          path: node_modules
+          key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
+
+      - name: 安装依赖
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          npm install --save
 
       - name: 生成静态文件
         run: |
