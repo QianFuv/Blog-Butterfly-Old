@@ -1,33 +1,49 @@
-name: HEXO_DEPLOY
-on:
-  push:
-    branches:
-      - main
+name: 自动部署
+
+# 当有改动推送时，启动Action
+on: [push]
+
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source
-        uses: actions/checkout@v1
+      - name: 检查分支
+        uses: actions/checkout@v2
         with:
-          ref: master
-      - name: Use Node.js ${{ matrix.node_version }}
+          ref: main
+
+      - name: 安装 Node
         uses: actions/setup-node@v1
         with:
-          version: ${{ matrix.node_version }}
-      - name: Setup hexo
-        env:
-          ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_SECRET }}
+          node-version: "12.x"
+
+      - name: 安装 Hexo
         run: |
-          mkdir -p ~/.ssh/
-          echo "$ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
-          git config --global user.email "576765349@qq.com"
-          git config --global user.name "QianF"
+          export TZ='Asia/Shanghai'
           npm install hexo-cli -g
-          npm install
-      - name: Hexo deploy
+          npm install yuque-hexo -g
+          yuque-hexo clean
+          yuque-hexo sync
+
+      - name: 缓存 Hexo
+        uses: actions/cache@v1
+        id: cache
+        with:
+          path: node_modules
+          key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
+
+      - name: 安装依赖
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          npm install --save
+
+      - name: 生成静态文件
         run: |
           hexo clean
-          hexo d
+          hexo g
+
+      - name: 部署
+        run: |
+          git config --global user.name "Zfour"
+          git config --global user.email "499984532@qq.com"
+          hexo deploy
