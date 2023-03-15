@@ -13,11 +13,6 @@
     display: none !important;
 }
 
-/*手机版菜单按钮隐藏
-#toggle-menu>a {
-    display: none !important;
-}
-*/
 /*导航栏透明*/
 #nav {
     background: transparent !important;
@@ -32,7 +27,7 @@
 }
 
 /*文章卡片高度*/
-#recent-posts>div {
+#recent-posts>div:not(#gitcalendarBar) {
     height: 10em !important;
 }
 
