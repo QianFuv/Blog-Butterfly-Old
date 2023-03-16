@@ -1,7 +1,11 @@
 name: 自动部署
 
-# 当有改动推送时，启动Action
-on: [push]
+on: # 触发条件
+  push:
+    branches:
+      - main # 推送到 main 分支（这里的分支名很重要，不要弄错了
+
+  workflow_dispatch: # 手动触发
 
 jobs:
   deploy:
@@ -11,6 +15,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: main
+          fetch-depth: 0
 
       - name: 安装 Node
         uses: actions/setup-node@v3
@@ -32,6 +37,7 @@ jobs:
       - name: 生成静态文件
         run: |
           hexo clean
+          git ls-files -z | while read -d '' path; do touch -d $(git log -1 --format="@%ct" "$path") "$path"; done
           hexo g
 
       - name: 部署

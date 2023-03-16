@@ -42,10 +42,6 @@
     background-size: cover;
 }
 
-/*标题文字居中*/
-#post-info>h1 {
-    text-align: center;
-}
 
 /*分享按钮*/
 #post>div.tag_share {
