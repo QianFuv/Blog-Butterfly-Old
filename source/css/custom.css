@@ -53,11 +53,6 @@
     display: none !important;
 }
 
-/*说说优化*/
-#uploadSource {
-    display: none !important;
-}
-
 /*友链说说标题居中*/
 #page>h1 {
     text-align: center;
@@ -103,11 +98,6 @@
 
 /*关闭滚动条*/
 ::-webkit-scrollbar {
-    display: none !important;
-}
-
-/*隐藏表情按钮*/
-#loadEmoji {
     display: none !important;
 }
 

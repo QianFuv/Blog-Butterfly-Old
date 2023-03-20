@@ -8,7 +8,7 @@ menu:
 # Tags: /tags/ || fas fa-tags
 # Categories: /categories/ || fas fa-folder-open
   List||fas fa-list:
-    说说: /artitalk/
+    说说: /talks/
     文章: /archives/
     友链: /link/
 # About: /about/ || fas fa-heart
@@ -883,26 +883,6 @@ inject:
 
   bottom:
   # - <script src="xxxx"></script>
-
-# Artitalk
-# see https://artitalk.js.org/
-artitalk:
-  enable: true
-  appId: KMTEEPBn6KVIsJk9bZhlLR8O-MdYXbMMI
-  appKey: 2WfEQDsJStBpxhkQ617EPOL5
-  path: artitalk
-  js:
-  option:
-    atComment: 0
-    color1: rgb(211,211,211)
-    color2: rgb(211,211,211)
-    color3: rgb(0, 0, 0)
-    pageSize: 10
-    serverURL: https://leancloud.qianf.fun
-  front_matter: 
-    aside: false
-    comments: false
-    title: 说说
 
 
 # CDN
