@@ -16,11 +16,14 @@ comments: false
   <script>
     qexoDaodao?.init({
       el: "#qexoDaoDao",
-      avatar: "https://q1.qlogo.cn/g?b=qq&nk=2496091142&s=640",
-      name: "UyoAhz",
+      avatar: "https://vip2.loli.io/2023/02/24/78svlbO5q2KYIgc.jpg",
+      name: "浅风",
       limit: 10,
       useLoadingImg: false,
       baseURL: "https://admin.qianf.fun",
+      title: "",
+      fromColor: "#696969",
+      labelColor: "#696969",
     }).then(function (){
       console.log("qexoDaodao加载完成");
     })

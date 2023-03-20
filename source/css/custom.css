@@ -113,3 +113,7 @@
 #article-container>div>div.flink-desc {
     display: none !important;
 }
+
+#ispeak>div>div.xk-info>div>i {
+    display: none !important;
+}
