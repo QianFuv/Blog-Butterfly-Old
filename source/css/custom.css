@@ -114,6 +114,11 @@
     display: none !important;
 }
 
+/*说说美化*/
 #ispeak>div>div.xk-info>div>i {
+    display: none !important;
+}
+
+#ispeak>div>div.xk-footer {
     display: none !important;
 }
