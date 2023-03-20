@@ -11,4 +11,4 @@ comments: false
 <script>loadQexoFriends("qexo-friends", "https://admin.qianf.fun")</script>
 <div id="friends-api"></div>
 <script src="https://unpkg.com/qexo-friends/friends-api.js"></script>
-<script>qexo_friend_api("friends-api","https://blog.qianf.fun");</script>
+<script>qexo_friend_api("friends-api","https://admin.qianf.fun");</script>
