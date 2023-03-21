@@ -122,3 +122,16 @@
 #ispeak>div>div.xk-footer {
     display: none !important;
 }
+
+/*字体*/
+@font-face {
+    font-family: 'SourceCodePro';
+    font-display: swap;
+    src: url('../font/SourceCodePro.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'CangErYuYangTi';
+    font-display: swap;
+    src: url('../font/CangErYuYangTi.ttf') format("truetype");
+}

@@ -8,7 +8,7 @@ menu:
 # Tags: /tags/ || fas fa-tags
 # Categories: /categories/ || fas fa-folder-open
   List||fas fa-list:
-    说说: /talks/
+    叨叨: /talks/
     文章: /archives/
     友链: /link/
 # About: /about/ || fas fa-heart
@@ -605,8 +605,8 @@ beautify:
 font:
   global-font-size:
   code-font-size:
-  font-family:
-  code-font-family:
+  font-family: CangErYuYangTi
+  code-font-family: SourceCodePro
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
