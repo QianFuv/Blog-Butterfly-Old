@@ -1,7 +1,23 @@
-- class_name: 友情链接
+- class_name: 我的朋友们
   class_desc: 那些人，那些事
   link_list:
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
+    - name: 张时贰
+      link: https://zhangshier.vip/
+      avatar: https://zhangshier.vip/Hexo_img/avatar.jpg
+      descr: 环转码，热爱敲代码的小张！
+    - name: 小冰博客
+      link: https://zfe.space/
+      avatar: https://zfe.space/images/headimage.png
+      descr: 做个有梦想的人！
+    - name: Akilar
+      link: https://akilar.top/
+      avatar: https://npm.elemecdn.com/akiblog@1.0.2/img/author.webp
+      descr: 糖果屋~
+    - name: 张洪Heo
+      link: https://blog.zhheo.com/
+      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+      descr: 是一名设计师、产品经理、独立开发者、博主
+    - name: 安知鱼
+      link: https://anzhiy.cn/
       avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、简单且强大的网志框架
+      descr: 是一名前端工程师、学生、独立开发者、 博主
