@@ -101,19 +101,6 @@
     display: none !important;
 }
 
-/*友链魔改*/
-#article-container>div>div.flink-list {
-    display: none !important;
-}
-
-#友情链接 {
-    display: none !important;
-}
-
-#article-container>div>div.flink-desc {
-    display: none !important;
-}
-
 /*说说美化*/
 #ispeak>div>div.xk-info>div>i {
     display: none !important;
