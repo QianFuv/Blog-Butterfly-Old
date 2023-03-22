@@ -42,7 +42,6 @@
     background-size: cover;
 }
 
-
 /*分享按钮*/
 #post>div.tag_share {
     display: none !important;
@@ -50,16 +49,6 @@
 
 /*twikoo美化*/
 #twikoo>div.tk-footer {
-    display: none !important;
-}
-
-/*友链说说标题居中*/
-#page>h1 {
-    text-align: center;
-}
-
-/*手机界面隐藏文章分类标签显示*/
-#sidebar-menus>div.sidebar-site-data.site-data.is-center {
     display: none !important;
 }
 
@@ -78,30 +67,12 @@
     display: none !important;
 }
 
-/*手机页面list按钮隐藏*/
-#sidebar-menus>div.menus_items>div>a {
-    display: none !important;
-}
-
-/*手机目录美化*/
-#sidebar-menus>div.menus_items>div>ul>li:nth-child(1)>a {
-    text-indent: 63px;
-}
-
-#sidebar-menus>div.menus_items>div>ul>li:nth-child(2)>a {
-    text-indent: 63px;
-}
-
-#sidebar-menus>div.menus_items>div>ul>li:nth-child(3)>a {
-    text-indent: 63px;
-}
-
 /*关闭滚动条*/
 ::-webkit-scrollbar {
     display: none !important;
 }
 
-/*说说美化*/
+/*叨叨美化*/
 #ispeak>div>div.xk-info>div>i {
     display: none !important;
 }
