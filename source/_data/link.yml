@@ -3,27 +3,27 @@
   link_list:
     - name: 张时贰
       link: https://zhangshier.vip/
-      avatar: https://zhangshier.vip/Hexo_img/avatar.jpg
+      avatar: https://vip2.loli.io/2023/03/27/j7gnZYtLd6DiNGa.png
       descr: 环转码，热爱敲代码的小张！
     - name: 小冰博客
       link: https://zfe.space/
-      avatar: https://zfe.space/images/headimage.png
+      avatar: https://vip2.loli.io/2023/03/27/briK3vol9hVFnCB.png
       descr: 做个有梦想的人！
     - name: Akilar
       link: https://akilar.top/
-      avatar: https://npm.elemecdn.com/akiblog@1.0.2/img/author.webp
+      avatar: https://vip2.loli.io/2023/03/27/stpYcdZOGyJk4nh.png
       descr: 糖果屋~
     - name: 张洪Heo
       link: https://blog.zhheo.com/
-      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+      avatar: https://vip2.loli.io/2023/03/27/s5ZRfhQjep2Xbuq.png
       descr: 是一名设计师、产品经理、独立开发者、博主
     - name: 安知鱼
       link: https://anzhiy.cn/
-      avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
+      avatar: https://vip2.loli.io/2023/03/27/ECHVxuoZsghOKcG.png
       descr: 是一名前端工程师、学生、独立开发者、 博主
     - name: yyyz
       link: https://www.yyyzyyyz.cn/
-      avatar: https://www.yyyzyyyz.cn/butterflyimg/img/avatar.png
+      avatar: https://vip2.loli.io/2023/03/27/46hKJpHSdZyP2Gi.png
       descr: 清辉玉臂寒
 - class_name: 有用的网站
   class_desc: 有一个写一个叭~
@@ -32,3 +32,23 @@
       link: https://www.designevo.com/
       avatar: https://vip2.loli.io/2023/03/26/MItLzrYEGi8ZcC4.png
       descr: 在线免费设计Logo
+    - name: 旋律工艺云计算
+      link: https://www.rhymc.com/
+      avatar: https://vip2.loli.io/2023/03/27/ZxbQRPYEN5ID2ng.png
+      descr: 安全、性价比高的VPS/MC面板服
+    - name: SM.MS图床
+      link: https://sm.ms/
+      avatar: https://vip2.loli.io/2023/03/27/yYAvsgZba75xLw2.png
+      descr: 稳定、快速的全球图床
+    - name: Adoptium JDK
+      link: https://adoptium.net/
+      avatar: https://vip2.loli.io/2023/03/27/pVlr2aUjR7Fm3u8.png
+      descr: 开源、高性能的JDK发行版
+    - name: 克隆窝
+      link: https://www.kelongwo.com/
+      avatar: https://vip2.loli.io/2023/03/27/3D9JwmB1oFPRnHd.png
+      descr: 破解资源聚集地
+    - name: 安哥技术博客
+      link: https://chenjunan.top/
+      avatar: https://vip2.loli.io/2023/03/27/mcIFxSofMa2CgWp.webp
+      descr: 各类热门编程资源破解
