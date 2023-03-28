@@ -22,7 +22,7 @@ comments: false
       useLoadingImg: false,
       baseURL: "https://admin.qianf.fun",
       title: "",
-      fromColor: "#696969",
+      fromColor: "#ffffff",
       labelColor: "#696969",
     }).then(function (){
       console.log("qexoDaodao加载完成");
