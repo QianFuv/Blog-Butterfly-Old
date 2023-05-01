@@ -4,7 +4,7 @@ categories: []
 date: '2023-04-19 17:28:45'
 tags: []
 title: QFproject-Wonder介绍页
-updated: Sun, 30 Apr 2023 16:09:40 GMT
+updated: Mon, 01 May 2023 11:41:05 GMT+8
 ---
 # 写在前面
 
@@ -27,8 +27,6 @@ updated: Sun, 30 Apr 2023 16:09:40 GMT
 # 玩法介绍
 
 > 下面是对整合包的玩法介绍，将会涵盖现有的核心模组
-
-*
 
 # Bug反馈
 
