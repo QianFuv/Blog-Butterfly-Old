@@ -4,7 +4,7 @@ categories: []
 date: '2023-04-19 17:28:45'
 tags: []
 title: QFproject-Wonder介绍页
-updated: Mon, 01 May 2023 11:41:05 GMT+8
+updated: Wed, 10 May 2023 01:27:26 GMT
 ---
 # 写在前面
 
@@ -22,13 +22,30 @@ updated: Mon, 01 May 2023 11:41:05 GMT+8
 
 目前整合包最新版为[ Rel V1.3 ] ，目前包含了现版本（1.18.2）下除怪物和科魔以外的所有玩法模组（当然是经过兼容性测试的），服务端也在同步调试，核心模组达到了200个（准确数量）。
 
-整合包不适合单人游玩，推荐配套服务器使用，服务端包暂时不公开。
+整合包不适合单人游玩，推荐配套服务器使用，服务端包暂时不公开，等本周目结束将上传Github供大家使用。
 
 # 玩法介绍
 
 > 下面是对整合包的玩法介绍，将会涵盖现有的核心模组
 
-# Bug反馈
+# 游玩反馈
 
-* 整合包官方QQ群：787344812
-*
+请前往[Github Issue](https://github.com/Qian-F/QFserver-Wonder/issues)对整合包内容进行反馈，在此感谢[MonianHello](http://monianhello.top/)制作的Issue模板~
+
+# 更新日志
+
+## V1.4 Release
+
+
+## V1.3 Beta
+
+
+## V1.2 Beta
+
+
+## V1.1 Alpha
+
+
+## V1.0 Alpha
+
+整合包初始发布
