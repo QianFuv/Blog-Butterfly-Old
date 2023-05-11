@@ -24,9 +24,15 @@ updated: 2023-5-11T23:40:5.954+8:0
 
 整合包不适合单人游玩，推荐配套服务器使用，服务端包暂时不公开，等本周目结束将上传[Github](https://github.com/Qian-F/QFserver-Wonder)供大家使用。
 
+# 模组列表
+
+[点击查看](https://moddermore.net/list/7dd02ba3c4)
+
 # 玩法介绍
 
 > 下面是对整合包的玩法介绍，将会涵盖现有的核心模组
+
+待更新
 
 # 加入我们
 
