@@ -4,7 +4,7 @@ categories: []
 date: '2023-04-19 17:28:45'
 tags: []
 title: QFproject-Wonder介绍页
-updated: 2023-5-11T23:19:20.924+8:0
+updated: 2023-5-11T23:40:5.954+8:0
 ---
 # 写在前面
 
@@ -27,6 +27,12 @@ updated: 2023-5-11T23:19:20.924+8:0
 # 玩法介绍
 
 > 下面是对整合包的玩法介绍，将会涵盖现有的核心模组
+
+# 加入我们
+
+想游玩服务器？加群和小伙伴一起玩叭~
+
+QQ群：[787344812](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ewXjxbCPcrGPEYLrrBDuG_Qr4-1ysDP0&authKey=iBmf3waFztVg4VyNlL0%2FpUmkrymbmwAUTS8S47FWFHFnqkHOkmAuTyCSGU%2FbugiQ&noverify=0&group_code=787344812)
 
 # 游玩反馈
 
