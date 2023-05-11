@@ -4,7 +4,7 @@ categories: []
 date: '2023-04-19 17:28:45'
 tags: []
 title: QFproject-Wonder介绍页
-updated: Wed, 10 May 2023 01:27:26 GMT
+updated: 2023-5-11T23:19:20.924+8:0
 ---
 # 写在前面
 
@@ -20,9 +20,9 @@ updated: Wed, 10 May 2023 01:27:26 GMT
 
 # 版本
 
-目前整合包最新版为[ Rel V1.3 ] ，目前包含了现版本（1.18.2）下除怪物和科魔以外的所有玩法模组（当然是经过兼容性测试的），服务端也在同步调试，核心模组达到了200个（准确数量）。
+目前整合包最新版为[ Release V1.4 ] ，目前包含了现版本（1.18.2）下除怪物和科魔以外的所有玩法模组（当然是经过兼容性测试的），服务端也在同步调试，核心模组达到了222个（准确数量）。
 
-整合包不适合单人游玩，推荐配套服务器使用，服务端包暂时不公开，等本周目结束将上传Github供大家使用。
+整合包不适合单人游玩，推荐配套服务器使用，服务端包暂时不公开，等本周目结束将上传[Github](https://github.com/Qian-F/QFserver-Wonder)供大家使用。
 
 # 玩法介绍
 
@@ -36,6 +36,53 @@ updated: Wed, 10 May 2023 01:27:26 GMT
 
 ## V1.4 Release
 
+1. 更新模组：（仅包含核心模组）
+   * architectury-4.11.93-fabric
+   * chefs-delight-1.0.3-fabric-1.18.2
+   * fabric-language-kotlin-1.9.4+kotlin.1.8.21
+   * konkrete_fabric_1.6.1_MC_1.18-1.18.2
+   * Patchouli-1.18.2-71.1-FABRIC
+   * toms_storage_fabric-1.18.2-1.5.3
+   * Variety_Aquatic-1.18.2-1.0.4.3
+   * wildlife-1.18.2-2.2
+   * Xaeros_Minimap_23.4.1_Fabric_1.18.2
+   * XaerosWorldMap_1.30.1_Fabric_1.18.2
+   * xercamusic-fabric-1.18.2-1.0.2
+   * xercapaint-fabric-1.18.2-1.0.2
+2. 新增模组：（仅包含核心模组）
+   * advancednetherite-fabric-1.5.1-1.18.2
+   * BambooEverything-fabric-1.3.8-build.45+mc1.18.2
+   * betterCompatibilityChecker-fabric-1.0.5
+   * blast-1.9.1
+   * blockmeter-1.6
+   * BuildingWands-mc1.18.2-2.6.6-release-fabric
+   * campchair-fabric.1.18.2-1.0.2
+   * crittersandcompanions-fabric-1.18.2-1.0.2
+   * dualwielding-1.1.0
+   * enchantments-plus-1.0.9+1.18.2
+   * ExtendedDrawers-1.3.6+mc.1.18.2
+   * litematica-fabric-1.18.2-0.11.6
+   * LitematicaTool-mod-1.3.2
+   * lunade-copper-pipe-1.12-1.18.2
+   * malilib-fabric-1.18.2-0.12.1
+   * plushie-mod-1.2-1.18.2
+   * ProgressiveBossesFabric-1.18.2-U1
+   * secret-rooms-1.0.0r-1.18.2
+   * sihywtcamd-1.7.1+1.18.2
+   * Slideshow-fabric-1.18.2-1.0.2-hotfix-1
+   * snailmail-1.18.2-1.1.0-fabric
+   * syncmatica-1.18.2-0.3.8
+   * wired-redstone-0.3.11+1.18.2
+3. 删除模组：（仅包含核心模组）
+   * DeathCompass-v3.2.0-1.18.2-Fabric
+   * oxidized-1.6.4
+4. 优化Tick崩服问题
+5. 优化圆石无法烧炼问题
+6. 优化地图预生成问题，并添加世界边界
+7. 调整了一些配置文件
+8. 优化客户端界面布局，更新壁纸
+9. 封禁一些崩服物品
+10. Q群 < - > 服务器消息转发优化
 
 ## V1.3 Beta
 
