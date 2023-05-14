@@ -4,7 +4,7 @@ categories: []
 date: '2023-04-19 17:28:45'
 tags: []
 title: QFproject-Wonder介绍页
-updated: 2023-5-11T23:40:5.954+8:0
+updated: 2023-5-14T19:38:29.73+8:0
 ---
 # 写在前面
 
@@ -85,9 +85,11 @@ QQ群：[787344812](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ewXjxbCPcrGPEYLrrB
    * snailmail-1.18.2-1.1.0-fabric
    * syncmatica-1.18.2-0.3.8
    * wired-redstone-0.3.11+1.18.2
+   * advdebug-2.3.0
 3. 删除模组：（仅包含核心模组）
    * DeathCompass-v3.2.0-1.18.2-Fabric
    * oxidized-1.6.4
+   * dragonfight-fabric-1.18.2-2.5
 4. 优化Tick崩服问题
 5. 优化圆石无法烧炼问题
 6. 优化地图预生成问题，并添加世界边界
@@ -95,6 +97,8 @@ QQ群：[787344812](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ewXjxbCPcrGPEYLrrB
 8. 优化客户端界面布局，更新壁纸
 9. 封禁一些崩服物品
 10. Q群 < - > 服务器消息转发优化
+11. 优化无故被踢问题（可能）
+12. 服务端日志报错优化
 
 ## V1.3 Beta
 
