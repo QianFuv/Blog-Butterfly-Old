@@ -26,7 +26,7 @@ updated: 2023-5-15T10:22:33.994+8:0
 
 # 模组列表
 
-[点击查看](https://moddermore.net/list/7dd02ba3c4)
+[点击查看](https://moddermore.net/list/o_R7BqcLo_6H)
 
 # 玩法介绍
 
