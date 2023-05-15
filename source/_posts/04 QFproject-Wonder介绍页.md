@@ -4,7 +4,7 @@ categories: []
 date: '2023-04-19 17:28:45'
 tags: []
 title: QFproject-Wonder介绍页
-updated: 2023-5-14T19:38:29.73+8:0
+updated: 2023-5-15T10:22:33.994+8:0
 ---
 # 写在前面
 
@@ -45,6 +45,15 @@ QQ群：[787344812](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ewXjxbCPcrGPEYLrrB
 请前往[Github Issue](https://github.com/Qian-F/QFserver-Wonder/issues)对整合包内容进行反馈，在此感谢[MonianHello](http://monianhello.top/)制作的Issue模板~
 
 # 更新日志
+
+## V1.4.2 Pre-Release
+
+> 整合将迁移至Courseforge，预计6月中旬发布
+
+## V1.4.1 Release
+
+1. 一些小配置调整
+2. 添加客户端版本号
 
 ## V1.4 Release
 
