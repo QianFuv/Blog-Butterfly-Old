@@ -4,7 +4,7 @@ categories: []
 date: '2023-04-19 17:28:45'
 tags: []
 title: QFproject-Wonder介绍页
-updated: 2023-5-15T10:22:33.994+8:0
+updated: 2023-6-4T15:9:53.107+8:0
 ---
 # 写在前面
 
@@ -24,10 +24,6 @@ updated: 2023-5-15T10:22:33.994+8:0
 
 整合包不适合单人游玩，推荐配套服务器使用，服务端包暂时不公开，等本周目结束将上传[Github](https://github.com/Qian-F/QFserver-Wonder)和Courseforge供大家使用。
 
-# 模组列表
-
-[点击查看](https://moddermore.net/list/o_R7BqcLo_6H)
-
 # 玩法介绍
 
 > 下面是对整合包的玩法介绍，将会涵盖现有的核心模组
@@ -46,9 +42,53 @@ QQ群：[787344812](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ewXjxbCPcrGPEYLrrB
 
 # 更新日志
 
-## V1.4.2 Pre-Release
+## V1.5 Release
 
-> 整合将迁移至Courseforge，预计6月中旬发布
+1. 更新模组
+
+   * Bookshelf-Fabric-1.18.2-13.3.56.jar
+   * brewinandchewin-fabric-2.0.0+1.18.2.jar
+   * CoffeeDelight-Fabric-1.18.2-1.3Fix2.jar
+   * ExtendedDrawers-1.3.7+mc.1.18.2.jar
+   * Grass_Overhaul-Fabric-23.05.28_MC1.17.1-1.19.2.jar
+   * mcw-trapdoors-1.1.0-mc1.18.2fabric.jar
+   * MinecraftCapes Fabric 1.18.2-12.1.4.jar
+   * reacharound+1.18-1.1.1.jar
+   * RoughlyEnoughItems-8.3.608.jar
+   * smallships-fabric-1.18.2-2.0.0a2.2.jar
+   * travelers-backpack-1.18.2-7.1.26.jar
+   * Variety_Aquatic-1.18.2-1.0.4.2.jar
+   * XaerosWorldMap_1.30.3_Fabric_1.18.2.jar
+   * Xaeros_Minimap_23.4.4_Fabric_1.18.2.jar
+2. 新增模组
+
+   * armourersworkshop-fabric-1.18.2-2.0.0-dev.192.jar
+   * astralvinery-1.2.0.jar
+   * benched-1.2.2-fabric-mc1.18.jar
+   * clay-0.4.2-fabric-1.18.2.jar
+   * kubejs-fabric-1802.5.5-build.569.jar
+   * lovely_snails-1.0.4+1.18.jar
+   * More Babies-fabric-1.18.2-1.0.0.jar
+   * morejs-fabric-1.18.2-0.0.6.jar
+   * rhino-fabric-1802.2.1-build.255.jar
+   * snuffles-1.0.0+1.18.2.jar
+   * supermartijn642configlib-1.1.6-fabric-mc1.18.jar
+   * supermartijn642corelib-1.1.9a-fabric-mc1.18.jar
+   * yuushya-2.0.0-1.18.2-fabric-stage7.jar
+3. 删除模组
+
+   * carpet-layers-1.0.1.jar
+   * upgradedshulkers-1.1.2.-1.18.jar
+4. 修复bug
+
+   * https://github.com/Qian-F/QFserver-Wonder/issues/2
+   * https://github.com/Qian-F/QFserver-Wonder/issues/4
+   * https://github.com/Qian-F/QFserver-Wonder/issues/5
+   * https://github.com/Qian-F/QFserver-Wonder/issues/6
+   * https://github.com/Qian-F/QFserver-Wonder/issues/7
+   * https://github.com/Qian-F/QFserver-Wonder/issues/8
+   * https://github.com/Qian-F/QFserver-Wonder/issues/9
+   * https://github.com/Qian-F/QFserver-Wonder/issues/12
 
 ## V1.4.1 Release
 
