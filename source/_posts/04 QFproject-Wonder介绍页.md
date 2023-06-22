@@ -4,11 +4,11 @@ categories: []
 date: '2023-04-19 17:28:45'
 tags: []
 title: QFproject-Wonder介绍页
-updated: 2023-6-5T10:36:43.28+8:0
+updated: 2023-6-23T0:47:20.367+8:0
 ---
 # 写在前面
 
-这个整合包是我自制用来开服的，相对于市面上那些RPG和科技包，我更偏向于养老和休闲，所以制作了这个整合包来游玩，毕竟咱们玩游戏要的是快乐，而不是玩几个小时还累的要死（还不如不玩
+这个整合包是我自制用来开服的，基于自己一坤年的开服寄术，可以随时随地自定义地增添模组和处理问题，不依赖别人，只靠自己！（题外话：急招一名和我实力差不多的寄术人员，有想法可以和我私聊-576765349）
 
 # 名称由来
 
@@ -20,13 +20,25 @@ updated: 2023-6-5T10:36:43.28+8:0
 
 # 版本
 
-目前整合包最新版为[ Release V1.5 ] ，目前包含了现版本（1.18.2）下除怪物和科魔以外的所有玩法模组（当然是经过兼容性测试的），服务端也在同步调试，核心模组达到了232个（准确数量）。
+目前整合包最新版为[ Release V2.3 ] ，目前包含了现版本（1.18.2）下所有玩法模组（当然是经过兼容性测试的），务端也在同步调试，核心模组达到了288个（准确数量）。
 
-整合包不适合单人游玩，推荐配套服务器使用，服务端包暂时不公开，等本周目结束将上传[Github](https://github.com/Qian-F/QFserver-Wonder)和Courseforge供大家使用。
+整合包不适合单人游玩，推荐配套服务器使用，服务端包暂时不公开，等本周目结束将上传[Github](https://github.com/QF-project/QFserver-Wonder)和Courseforge供大家使用。
+
+# 玩家手册
+
+> 包含服规和常见问题Q&A，推荐每一个进服玩家都看一遍，以免造成不必要的麻烦
+
+[点我跳转](https://blog.qianf.fun/archives/c0d67284.html)
 
 # 玩法介绍
 
 > 下面是对整合包的玩法介绍，将会涵盖现有的核心模组
+
+## 科技
+
+* [Immersive Aircraft - 沉浸式飞机](https://www.mcmod.cn/class/8527.html)
+  一个忠于原版的、细致的模组，目的是为 Minecraft 添加一些好用的设备、飞机
+*
 
 ## 冒险
 
@@ -47,11 +59,17 @@ updated: 2023-6-5T10:36:43.28+8:0
   添加了各种颜色的玻璃楼梯与玻璃台阶
 * [Grass Overhaul - 草地重置](https://www.mcmod.cn/class/9530.html)
   添加了可堆叠的地毯，台阶和方块形式的草皮块，与纹理包兼容；生物不能在草皮上中生成，因此可以以美观且优雅的方式控制其生成
+* [Display Case - 陈列柜](https://www.mcmod.cn/class/6884.html)
+  添加了一个可以装入任何物品或方块的装饰品，材质与1.16新增的锁链非常匹配
 
 ## 实用
 
 * [Chromatic Currents - 多彩红石](https://www.mcmod.cn/class/6151.html)
   添加了染色红石，不同颜色的染色红石可以由红石或其他染色红石和染料合成获得；不同颜色的染色红石之间不会连接，这让你可以创造更复杂的红石电路！
+* [Disc holder & DJ - 唱片架](https://www.mcmod.cn/class/7719.html)
+  添加了唱片架（16种/对应16种羊毛颜色），一个唱片架可以放置7张唱片，并拥有自己的物品栏；右键添加/移除唱片。当你看向唱片时，可以看到唱片的名称
+* [Etched - 唱片蚀刻](https://www.mcmod.cn/class/5735.html)
+  可以让你在MC中制作自定义唱片
 
 ## 辅助
 
@@ -78,6 +96,14 @@ QQ群：[787344812](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ewXjxbCPcrGPEYLrrB
 请前往[Github Issue](https://github.com/Qian-F/QFserver-Wonder/issues)对整合包内容进行反馈，在此感谢[MonianHello](http://monianhello.top/)制作的Issue模板~
 
 # 更新日志
+
+## V2.1 Release
+
+> 此版本应群友要求加入了科技&魔法内容，同时修复了一系列Bug
+
+由于内容过多暂不写出
+
+在此向两位测试人员（MonianHello和Dou_Xing_Hun）表示最真诚的谢意！！！
 
 ## V1.5 Release
 
