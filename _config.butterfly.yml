@@ -8,10 +8,8 @@ menu:
 # Tags: /tags/ || fas fa-tags
 # Categories: /categories/ || fas fa-folder-open
   List||fas fa-list:
-    叨叨: /talks/
     文章: /archives/
     友链: /link/
-    朋友圈: /fcircle/
 # About: /about/ || fas fa-heart
 
 nav:
