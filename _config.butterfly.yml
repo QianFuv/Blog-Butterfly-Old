@@ -10,6 +10,7 @@ menu:
   List||fas fa-list:
     文章: /archives/
     友链: /link/
+    叨叨: /talks/
 # About: /about/ || fas fa-heart
 
 nav:
