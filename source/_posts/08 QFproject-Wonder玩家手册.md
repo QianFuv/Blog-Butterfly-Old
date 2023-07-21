@@ -90,11 +90,9 @@ updated: 2023-7-21T11:36:3.950+8:0
 
 ### AdventureZ
 
-#### 内容介绍
-
+**内容介绍**
 该模组增添了一些致命生物和一个新的最终 BOSS——黑石傀儡，它可能是你所遭遇过的最难以对付的敌人。
-
-#### 详情链接
+**详情链接**
 
 - MC百科：[点我直达](https://www.mcmod.cn/class/5052.html)
 - Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/adventurez)
@@ -111,11 +109,9 @@ updated: 2023-7-21T11:36:3.950+8:0
 
 ### Ambient Environment
 
-#### 内容介绍
-
+**内容介绍**
 此模组为游戏的生物群系颜色添加了环境颜色噪声；这意味着草、水和树叶等事物会根据它们在世界上的位置在颜色上有非常细微的差异；这种噪声有助于让世界看起来更加多样化和充满活力；这是基于游戏的基岩版的类似功能。
-
-#### 详情链接
+**详情链接**
 
 - MC百科：[点我直达](https://www.mcmod.cn/class/5258.html)
 - Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
@@ -124,11 +120,9 @@ updated: 2023-7-21T11:36:3.950+8:0
 
 ### Another Furniture
 
-#### 内容介绍
-
+**内容介绍**
 Another Furniture向原版中增加了各种家具，特点是保持原版风格和一致的大小，保持正常的方块和玩家的尺寸；你可以制造出任何木材类型的家具，从橡木到诡异木皆可。
-
-#### 详情链接
+**详情链接**
 
 - MC百科：[点我直达](https://www.mcmod.cn/class/7201.html)
 - Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/another-furniture)
@@ -141,11 +135,9 @@ Another Furniture向原版中增加了各种家具，特点是保持原版风格
 
 ### Additional Additions 实用拓展
 
-#### 内容介绍
-
+**内容介绍**
 此MOD为洞穴与山崖新更新中添加的铜、紫水晶和发光墨囊添加了额外的用途，并扩展了其它材料的用途。
-
-#### 详情链接
+**详情链接**
 
 - MC百科：[点我直达](https://www.mcmod.cn/class/4964.html)
 - Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/additional-additions)
@@ -154,11 +146,9 @@ Another Furniture向原版中增加了各种家具，特点是保持原版风格
 
 ### Automobility 飞车奇匠
 
-#### 内容介绍
-
+**内容介绍**
 一个添加了可定制车辆的模组，最初为 ModFest 2021 而制作，经过一年左右的打磨终于问世。
-
-#### 详情链接
+**详情链接**
 
 - MC百科：[点我直达](https://www.mcmod.cn/class/7241.html)
 - Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/automobility)
@@ -167,11 +157,9 @@ Another Furniture向原版中增加了各种家具，特点是保持原版风格
 
 ### Advanced Netherite 高级下界合金
 
-#### 内容介绍
-
+**内容介绍**
 本模组添加了4种新的下界合金，对于每种新的下界合金，都有一系列的工具、盔甲和方块；每个下界合金都有自己独特的属性，例如特殊技能、工具的额外掉落等。
-
-#### 详情链接
+**详情链接**
 
 - MC百科：[点我直达](https://www.mcmod.cn/class/6438.html)
 - Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric)
@@ -180,11 +168,9 @@ Another Furniture向原版中增加了各种家具，特点是保持原版风格
 
 ### Artifacts 奇异饰品
 
-#### 内容介绍
-
+**内容介绍**
 Artifacts 添加了许多无法合成的强力饰品，给冒险增添趣味；这个模组添加的饰品可以在原版结构中的箱子中找到，同时也添加了一个新的地下结构；Mimics（宝箱怪）是一种新的敌对生物，平时会伪装成箱子的样子，在玩家靠近时攻击玩家；佩戴 Artifacts 中的饰品后，每个饰品都会有独特的模型被展示出来。
-
-#### 详情链接
+**详情链接**
 
 - MC百科：[点我直达](https://www.mcmod.cn/class/2821.html)
 - Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric)
@@ -197,11 +183,9 @@ Artifacts 添加了许多无法合成的强力饰品，给冒险增添趣味；�
 
 ### AntiGhost 幽灵方块同步修复
 
-#### 内容介绍
-
+**内容介绍**
 该模组主要用以解决因挖掘速度过快和服务器客户端药水效果结束后不同步导致的方块不同步问题；该问题较为常见，一般表现为因服务端判定而实际并未被采掘的方块在客户端依然可见，造成了不同步的问题，当玩家尝试移动到该方块所在位置时也会被服务器强制拉回。
-
-#### 详情链接
+**详情链接**
 
 - MC百科：[点我直达](https://www.mcmod.cn/class/3426.html)
 - Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/antighost)
@@ -210,11 +194,9 @@ Artifacts 添加了许多无法合成的强力饰品，给冒险增添趣味；�
 
 ### Autos'n'Rails 机械动力&飞车奇匠兼容性修复
 
-#### 内容介绍
-
+**内容介绍**
 飞车奇匠在1.18.2版本包含一个可以使其与机械动力同时加载的修复程序，这个模组使用这个修复程序来使两者可以被同时加载。
-
-#### 详情链接
+**详情链接**
 
 - MC百科：暂无
 - Curseforge：暂无
@@ -223,11 +205,9 @@ Artifacts 添加了许多无法合成的强力饰品，给冒险增添趣味；�
 
 ### AppleSkin 苹果皮
 
-#### 内容介绍
-
+**内容介绍**
 这个模组为食物添加了饱食度、饱和度和预估能恢复的血量显示。
-
-#### 详情链接
+**详情链接**
 
 - MC百科：[点我直达](https://www.mcmod.cn/class/744.html)
 - Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/appleskin)
