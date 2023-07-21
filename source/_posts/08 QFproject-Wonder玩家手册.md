@@ -4,7 +4,7 @@ categories: []
 date: '2023-05-19T17:25:53.583633+08:00'
 tags: []
 title: QFproject-Wonder玩家手册
-updated: 2023-7-19T12:25:46.14+8:0
+updated: 2023-7-21T11:36:3.950+8:0
 ---
 # 一、基本条约
 
@@ -40,30 +40,205 @@ updated: 2023-7-19T12:25:46.14+8:0
 6. 禁止任何非自愿性质的PVP。
 7. 禁止建造有不当暗示的建筑。
 8. 机器必须设有开关，人走机器关，卡服者ban，不接受“无意”。
-9. 玩家在向服主和管理举报违规行为前，因首先自行沟通，如若处理不了可私聊服主管理进行处理。
+9. 玩家在向服主和管理举报违规行为前，因首先自行沟通，如若处理不了可私聊服主和管理进行处理。
 10. 禁止一切行为的RMB交易，服务器极力反对，一经发现，双方都会加入黑名单，并且服务器不对任何RMB交易负责。
 
 # 二、赞助条约
 
 ## 1. 赞助规则
 
-1. 服务器接受玩家无偿赞助，且无偿赞助的行为皆不退回。
+1. 服务器仅接受玩家无偿赞助，且无偿赞助皆不退回。
 2. 赞助需保证自己满16周岁及以上，监护人应起到监护作用。
-3. 腐竹对于赞助金额具有全权处置权力且是否公开由腐竹决定。
+3. 服主对于赞助金额具有全权处置权力且是否公开由服主决定。
+4. 请在赞助时备注正版账号ID，便于后续统计和展出。
 
 ## 2. 赞助通道
 
 1. 爱发电：[点我直达](https://afdian.net/a/qianf)
 2. 私聊服主：[点我直达](https://qm.qq.com/q/HHKDwLZi0O)
+3. 文末打赏按钮（务必备注）
 
 # 三、宣传条约
 
-1. 本服务器和管理人员不对通过本服务器进行的宣传活动或其他任何行为所造成的任何损失或损害承担任何责任；本服务器和管理人员不对在本服务器上或与本服务器相关的任何争议或纠纷承担任何责任，包括但不限于与宣传、知识产权、隐私权、虚假宣传和不当竞争有关的问题。
-2. 通过本服务器进行的宣传活动必须遵守所有适用的法律法规，包括但不限于知识产权法、竞争法和消费者权益保护法；禁止在本服务器上从事任何违反法律法规或破坏服务器稳定的行为。
-3. 玩家应该自行承担宣传活动的法律后果，包括但不限于知识产权、隐私权、虚假宣传和不当竞争等方面的问题；本服务器和管理人员不对玩家在宣传活动中的行为承担任何责任。
-4. 在不违反以上三条的情况下，服务器鼓励玩家在服务器内取景，直播等一系列行为来宣传服务器。
+## 1. 宣传规则
 
-# 四、服务器特色介绍
+1. 本服务器不对通过本服务器进行的宣传活动或其他任何行为所造成的任何后果承担任何责任；本服务器不对在本服务器上或与本服务器相关的任何纠纷（包括但不限于与宣传、知识产权、隐私权、虚假宣传和不当竞争等）承担任何责任。
+2. 通过本服务器进行的宣传活动必须遵守相应法律法规；禁止在本服务器上从事任何违反法律法规或破坏服务器稳定的行为。
+3. 玩家应该自行承担宣传活动的法律后果；本服务器不对玩家在宣传活动中的行为承担任何责任。
+4. 在不违反以上三条的情况下，服务器鼓励玩家在服务器内取景，直播等一系列行为来宣传服务器（至少带有服务器名字和交流群号）。
 
-- 游戏版本：Java版/1.18.2版
--
+## 2. 宣传激励规则
+
+对积极宣传、宣传效果好的玩家，将给予一定的现金或者纪念品（内容待定）奖励。
+
+# 四、模组介绍
+
+> 这部分内容将根据模组功能分类，模组名将按照A-Z排序以便于查找。
+> 注：仅包含核心模组。
+
+## 科技
+
+> 设定可在现实中找到相关原始理论，且不满足冒险元素的定义，如电力、热力学、工程学、基因、量子、引力等内容。
+
+## 魔法
+
+> 含有架空的世界观，且不满足冒险元素的定义，如魔力、法术、符文、祭坛、结界等内容。
+
+## 冒险
+
+> 整个模组以添加挑战性与战斗元素，或是提高游戏生存难度为主，侧重点为增加新的怪物、提供给玩家武器装备、地牢、迷宫、世界等内容，或是模拟经营。
+
+### AdventureZ
+
+#### 内容介绍
+
+该模组增添了一些致命生物和一个新的最终 BOSS——黑石傀儡，它可能是你所遭遇过的最难以对付的敌人。
+
+#### 详情链接
+
+- MC百科：[点我直达](https://www.mcmod.cn/class/5052.html)
+- Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/adventurez)
+- Modrinth：[点我直达](https://modrinth.com/mod/adventurez)
+- Github：[点我直达](https://github.com/Globox1997/AdventureZ)
+
+## 农业
+
+> 以农业、林业、畜牧业或是增强饮食为主要内容的MOD。
+
+## 装饰
+
+> 模组中多数物品/方块只作为建材/装饰，没有互动，或是模组以使世界变得更美观为主。
+
+### Ambient Environment
+
+#### 内容介绍
+
+此模组为游戏的生物群系颜色添加了环境颜色噪声；这意味着草、水和树叶等事物会根据它们在世界上的位置在颜色上有非常细微的差异；这种噪声有助于让世界看起来更加多样化和充满活力；这是基于游戏的基岩版的类似功能。
+
+#### 详情链接
+
+- MC百科：[点我直达](https://www.mcmod.cn/class/5258.html)
+- Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
+- Modrinth：[点我直达](https://modrinth.com/mod/ambient-environment)
+- Github：[点我直达](https://github.com/jaredlll08/Ambient-Environment)
+
+### Another Furniture
+
+#### 内容介绍
+
+Another Furniture向原版中增加了各种家具，特点是保持原版风格和一致的大小，保持正常的方块和玩家的尺寸；你可以制造出任何木材类型的家具，从橡木到诡异木皆可。
+
+#### 详情链接
+
+- MC百科：[点我直达](https://www.mcmod.cn/class/7201.html)
+- Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/another-furniture)
+- Modrinth：暂无
+- Github：[点我直达](https://github.com/starfish-studios/AnotherFurniture)
+
+## 实用
+
+> 未包含世界观的实用性MOD，例如脑洞大开、小物件等，或是仅在依赖其他模组的基础上进行追加。
+
+### Additional Additions 实用拓展
+
+#### 内容介绍
+
+此MOD为洞穴与山崖新更新中添加的铜、紫水晶和发光墨囊添加了额外的用途，并扩展了其它材料的用途。
+
+#### 详情链接
+
+- MC百科：[点我直达](https://www.mcmod.cn/class/4964.html)
+- Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/additional-additions)
+- Modrinth：[点我直达](https://modrinth.com/mod/addadd)
+- Github：[点我直达](https://github.com/Additional-Mods/additionaladditions)
+
+### Automobility 飞车奇匠
+
+#### 内容介绍
+
+一个添加了可定制车辆的模组，最初为 ModFest 2021 而制作，经过一年左右的打磨终于问世。
+
+#### 详情链接
+
+- MC百科：[点我直达](https://www.mcmod.cn/class/7241.html)
+- Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/automobility)
+- Modrinth：[点我直达](https://modrinth.com/mod/automobility)
+- Github：[点我直达](https://github.com/FoundationGames/Automobility)
+
+### Advanced Netherite 高级下界合金
+
+#### 内容介绍
+
+本模组添加了4种新的下界合金，对于每种新的下界合金，都有一系列的工具、盔甲和方块；每个下界合金都有自己独特的属性，例如特殊技能、工具的额外掉落等。
+
+#### 详情链接
+
+- MC百科：[点我直达](https://www.mcmod.cn/class/6438.html)
+- Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric)
+- Modrinth：[点我直达](https://modrinth.com/mod/advanced-netherite)
+- Github：[点我直达](https://github.com/Autovw/AdvancedNetheriteFabric)
+
+### Artifacts 奇异饰品
+
+#### 内容介绍
+
+Artifacts 添加了许多无法合成的强力饰品，给冒险增添趣味；这个模组添加的饰品可以在原版结构中的箱子中找到，同时也添加了一个新的地下结构；Mimics（宝箱怪）是一种新的敌对生物，平时会伪装成箱子的样子，在玩家靠近时攻击玩家；佩戴 Artifacts 中的饰品后，每个饰品都会有独特的模型被展示出来。
+
+#### 详情链接
+
+- MC百科：[点我直达](https://www.mcmod.cn/class/2821.html)
+- Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric)
+- Modrinth：[点我直达](https://modrinth.com/mod/artifacts)
+- Github：[点我直达](https://github.com/ochotonida/artifacts)
+
+## 辅助
+
+> 整个模组的重点在于脚本，主要使用GUI/按钮或指令来实现功能，通常未添加新的物品/方块。
+
+### AntiGhost 幽灵方块同步修复
+
+#### 内容介绍
+
+该模组主要用以解决因挖掘速度过快和服务器客户端药水效果结束后不同步导致的方块不同步问题；该问题较为常见，一般表现为因服务端判定而实际并未被采掘的方块在客户端依然可见，造成了不同步的问题，当玩家尝试移动到该方块所在位置时也会被服务器强制拉回。
+
+#### 详情链接
+
+- MC百科：[点我直达](https://www.mcmod.cn/class/3426.html)
+- Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/antighost)
+- Modrinth：[点我直达](https://modrinth.com/mod/antighost)
+- Github：[点我直达](https://github.com/gbl/AntiGhost)
+
+### Autos'n'Rails 机械动力&飞车奇匠兼容性修复
+
+#### 内容介绍
+
+飞车奇匠在1.18.2版本包含一个可以使其与机械动力同时加载的修复程序，这个模组使用这个修复程序来使两者可以被同时加载。
+
+#### 详情链接
+
+- MC百科：暂无
+- Curseforge：暂无
+- Modrinth：[点我直达](https://modrinth.com/mod/autos_n_rails)
+- Github：[点我直达](https://github.com/Erdragh/AutosNRails)
+
+### AppleSkin 苹果皮
+
+#### 内容介绍
+
+这个模组为食物添加了饱食度、饱和度和预估能恢复的血量显示。
+
+#### 详情链接
+
+- MC百科：[点我直达](https://www.mcmod.cn/class/744.html)
+- Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- Modrinth：[点我直达](https://modrinth.com/mod/appleskin)
+- Github：[点我直达](https://github.com/squeek502/AppleSkin)
+
+## 魔改
+
+> 以提供给服务器管理人员或整合包作者自定义修改玩法的功能为主的MOD，例如自定义合成表、物品、世界生成器等。
+
+## LIB
+
+> 单独安装不会增加游戏内容，仅为开发者提供API为主的模组，一般作为一些模组的前置。
+>
