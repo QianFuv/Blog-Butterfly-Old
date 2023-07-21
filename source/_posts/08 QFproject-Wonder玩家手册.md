@@ -4,7 +4,7 @@ categories: []
 date: '2023-05-19T17:25:53.583633+08:00'
 tags: []
 title: QFproject-Wonder玩家手册
-updated: 2023-7-21T13:29:56.495+8:0
+updated: 2023-7-21T19:53:24.958+8:0
 ---
 # 一、基本条约
 
@@ -80,9 +80,49 @@ updated: 2023-7-21T13:29:56.495+8:0
 
 > 设定可在现实中找到相关原始理论，且不满足冒险元素的定义，如电力、热力学、工程学、基因、量子、引力等内容。
 
+### Applied Energistics 2 应用能源2
+
+**内容介绍**
+你可称它为模组中的红石：掌握者能够非常娴熟地运用，而新手时常认为其很难，同时可能性巨大；不过，不要生畏。
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/260.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+Modrinth：[点我直达](https://modrinth.com/mod/ae2)
+Github：[点我直达](https://github.com/AppliedEnergistics/Applied-Energistics-2)
+
+### AE Additions - ExtraCells2 Fork
+
+**内容介绍**
+本模组为Extra Cells 2的分支。
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/5628.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork)
+Modrinth：暂无
+Github：[点我直达](https://github.com/the9grounds/AE-Additions)
+
+### AE2 Things
+
+**内容介绍**
+本模组增加了一种新的存储元件和来自AE2 Stuff的高级压印器与晶体催生仓。
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/6421.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/ae2things)
+Modrinth：暂无
+Github：[点我直达](https://github.com/ProjectET/AE2Things)
+
 ## 魔法
 
 > 含有架空的世界观，且不满足冒险元素的定义，如魔力、法术、符文、祭坛、结界等内容。
+
+### Amethyst Imbuement 紫晶魔艺
+
+**内容介绍**
+欢迎来到紫晶魔艺，一个关于水晶、宝石和你的模组！在本模组中，玩家可以使用经验值来转化各种水晶和材料，为装备注入魔法能力，制作强大的新物品等等；但这只是本模组所提供内容的冰山一角！
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/6629.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/amethyst-imbuement)
+Modrinth：[点我直达](https://modrinth.com/mod/amethyst-imbuement)
+Github：[点我直达](https://github.com/fzzyhmstrs/ai)
 
 ## 冒险
 
@@ -97,6 +137,16 @@ MC百科：[点我直达](https://www.mcmod.cn/class/5052.html)
 Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/adventurez)
 Modrinth：[点我直达](https://modrinth.com/mod/adventurez)
 Github：[点我直达](https://github.com/Globox1997/AdventureZ)
+
+### Additional Structures 失落废墟
+
+**内容介绍**
+这个mod向游戏中添加了约155个新的小建筑来丰富你的Minecraft世界！
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/2049.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric)
+Modrinth：暂无
+Github：[点我直达](https://github.com/XxRexRaptorxX/Additional-Structures)
 
 ## 农业
 
@@ -125,6 +175,26 @@ MC百科：[点我直达](https://www.mcmod.cn/class/7201.html)
 Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/another-furniture)
 Modrinth：暂无
 Github：[点我直达](https://github.com/starfish-studios/AnotherFurniture)
+
+### Armourer's Workshop 时装工坊
+
+**内容介绍**
+时装工坊是一个可以让玩家创造自己武器与护甲皮肤的mod。
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/464.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/armourers-workshop)
+Modrinth：[点我直达](https://modrinth.com/mod/armourers-workshop)
+Github：[点我直达](https://github.com/Armourers-Workshop/Armourers-Workshop)
+
+### Adorn
+
+**内容介绍**
+Adorn 是一家具和装饰mod；这个 Mod 增加了不同类型的装饰性方块，包括桌子、椅子、沙发、厨房台面、抽屉、烟囱和架子。
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/1848.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/adorn)
+Modrinth：[点我直达](https://modrinth.com/mod/adorn)
+Github：[点我直达](https://github.com/Juuxel/Adorn/)
 
 ## 实用
 
@@ -170,6 +240,46 @@ Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/artifac
 Modrinth：[点我直达](https://modrinth.com/mod/artifacts)
 Github：[点我直达](https://github.com/ochotonida/artifacts)
 
+### Applied Botanics Addon 应用能源：植物魔法附属
+
+**内容介绍**
+本模组增加了植物魔法对应用能源2的支持。
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/6815.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/applied-botanics-addon)
+Modrinth：暂无
+Github：[点我直达](https://github.com/ramidzkh/Applied-Botanics)
+
+### Applied Energistics 2 Wireless Terminals AE2无线终端
+
+**内容介绍**
+这个Mod添加了多种无线版本的AE2终端，并且可以插入无限增幅卡，允许你在世界各地访问无线终端；它还添加了一个无线通用终端，你可以将所有无线终端都合并到其中。
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/3712.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
+Modrinth：[点我直达](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
+Github：[点我直达](https://github.com/Mari023/AE2WirelessTerminalLibrary)
+
+### Astral Vinery
+
+**内容介绍**
+修复Vinery一系列Bug，并且添加了对REI的支持。
+**详情链接**
+MC百科：暂无
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/astral-vinery)
+Modrinth：[点我直达](https://modrinth.com/mod/astral-vinery)
+Github：[点我直达](https://github.com/Erdragh/Astral-Vinery)
+
+### Autos'n'Rails 机械动力&飞车奇匠兼容性修复
+
+**内容介绍**
+飞车奇匠在1.18.2版本包含一个可以使其与机械动力同时加载的修复程序，这个模组使用这个修复程序来使两者可以被同时加载。
+**详情链接**
+MC百科：暂无
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/autosnrails)
+Modrinth：[点我直达](https://modrinth.com/mod/autos_n_rails)
+Github：[点我直达](https://github.com/Erdragh/AutosNRails)
+
 ## 辅助
 
 > 整个模组的重点在于脚本，主要使用GUI/按钮或指令来实现功能，通常未添加新的物品/方块。
@@ -184,16 +294,6 @@ Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/antigho
 Modrinth：[点我直达](https://modrinth.com/mod/antighost)
 Github：[点我直达](https://github.com/gbl/AntiGhost)
 
-### Autos'n'Rails 机械动力&飞车奇匠兼容性修复
-
-**内容介绍**
-飞车奇匠在1.18.2版本包含一个可以使其与机械动力同时加载的修复程序，这个模组使用这个修复程序来使两者可以被同时加载。
-**详情链接**
-MC百科：暂无
-Curseforge：暂无
-Modrinth：[点我直达](https://modrinth.com/mod/autos_n_rails)
-Github：[点我直达](https://github.com/Erdragh/AutosNRails)
-
 ### AppleSkin 苹果皮
 
 **内容介绍**
@@ -204,6 +304,16 @@ Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/applesk
 Modrinth：[点我直达](https://modrinth.com/mod/appleskin)
 Github：[点我直达](https://github.com/squeek502/AppleSkin)
 
+### Advancements Debug
+
+**内容介绍**
+这个轻量的模组重新编辑了进度系统的功能来使进度以更快的速度进行检测，并且减少了因为进度问题导致的报错（应当阻止了 StackOverflowErrors）。
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/6902.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)
+Modrinth：[点我直达](https://modrinth.com/mod/advancements-debug)
+Github：[点我直达](https://github.com/Technici4n/advancements-debug)
+
 ## 魔改
 
 > 以提供给服务器管理人员或整合包作者自定义修改玩法的功能为主的MOD，例如自定义合成表、物品、世界生成器等。
@@ -211,4 +321,23 @@ Github：[点我直达](https://github.com/squeek502/AppleSkin)
 ## LIB
 
 > 单独安装不会增加游戏内容，仅为开发者提供API为主的模组，一般作为一些模组的前置。
->
+
+### Amethyst Core
+
+**内容介绍**
+本模组是Amethyst Imbuement所需的前置库。
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/9211.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/amethyst-core)
+Modrinth：[点我直达](https://modrinth.com/mod/amethyst-core)
+Github：[点我直达](https://github.com/fzzyhmstrs/ac)
+
+### Architectury API
+
+**内容介绍**
+Architectury 是对 Fabric API 和 Forge API 的抽象化调用的 API，因为这两个加载程序对可以被视为同一事物的内容有不同的实现；Architectury API 定期更新，有新的钩子和特性；目前包含90多个事件挂钩、网络，抽象化、加载程序调用，抽象化、游戏注册表抽象和易于使用的@ExpectPlatform 注释。
+**详情链接**
+MC百科：[点我直达](https://www.mcmod.cn/class/3434.html)
+Curseforge：[点我直达](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
+Modrinth：[点我直达](https://modrinth.com/mod/architectury-api)
+Github：[点我直达](https://github.com/architectury/architectury-api)
