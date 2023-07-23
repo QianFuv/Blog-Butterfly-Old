@@ -4,7 +4,7 @@ categories: []
 date: '2023-05-19T17:25:53.583633+08:00'
 tags: []
 title: QFproject-Wonder玩家手册
-updated: 2023-7-22T21:54:0.639+8:0
+updated: 2023-7-23T17:30:42.660+8:0
 ---
 # 一、基本条约
 
@@ -101,6 +101,34 @@ updated: 2023-7-22T21:54:0.639+8:0
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6421.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ae2things) • Modrinth • [Github](https://github.com/ProjectET/AE2Things)
 
+### Create 机械动力
+
+**内容介绍**
+机械动力（Create）是一个围绕着建筑、装饰和机械的新兴模组，所添加的元素旨在为玩家提供全新的建筑与自动化体验，并尽可能多地为玩家预留自定义空间。在机器与能源方面，模组做出了极大的创新。机器不再由传统科技模组中乏味的电线供能，而是需要玩家搭建机械传动系统驱动。加工过程也不再是枯燥的 GUI 里等待进度条一遍遍被填满，机器可以直接与世界中的物品交互，并且加工时有着精美的动画。模组还具有独创的 动态结构 系统，可以使世界中的方块结构作为整体运动，进行各种自动化，并且有着真实的物理效果。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2021.html) • [Curseforge](https://modrinth.com/mod/create-fabric) • [Modrinth](https://www.curseforge.com/minecraft/mc-mods/create-fabric) • [Github](https://github.com/Fabricators-of-Create/Create)
+
+### Create Crafts & Additions
+
+**内容介绍**
+Create Crafts & Additions 扩展了机械动力，并充当机械动力的动能和传统科技模组的电能之间的桥梁，通过添加一个从 FE 产生动能的电动马达和一个效率为75%的交流发电机；为了制作这些物品，你需要先制造一个轧机，这是一个用来制造棒和线的动力机器。所有的合成表都可以通过 JEI 查找。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3437.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/createaddition) • [Modrinth](https://modrinth.com/mod/createaddition) • [Github](https://github.com/mrh0/createaddition)
+
+### Create: Foundry
+
+**内容介绍**
+本模组改进了矿石加工产线，使用你的机械动力知识来建造终极矿石处理器，熔化你的矿石并将它们铸成锭，或者将剩余的煤炭压缩成新的钻石！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/11043.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/create-foundry) • [Modrinth](https://modrinth.com/mod/createfoundry) • [Github](https://github.com/CommanderT3706/Create-Foundry)
+
+### CC: Restitched
+
+**内容介绍**
+此模组添加了计算机，显示器，有线或无线网络，机器人，打印机以及其他电脑外设。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3518.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) • [Modrinth](https://modrinth.com/mod/cc-restitched) • [Github](https://github.com/cc-tweaked/cc-restitched)
+
 ## 魔法
 
 > 含有架空的世界观，且不满足冒险元素的定义，如魔力、法术、符文、祭坛、结界等内容。
@@ -118,6 +146,13 @@ updated: 2023-7-22T21:54:0.639+8:0
 植物魔法的主题是蕴藏在自然中的魔力；当你找到第一朵神秘花的时候，随着成就「Sky of Beginning」，你的植物魔法旅途正式开始；由此你踏上了一条与花同行的旅途，你需要从花里获取魔力，然后用魔力来应对各种挑战。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/332.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/botania-fabric) • [Modrinth](https://modrinth.com/mod/botania) • [Github](https://github.com/VazkiiMods/Botania)
+
+### Critters and Companions
+
+**内容介绍**
+Critters and Companions是一个原版风格的生物模组，它将用新的动物填满整个世界！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/7129.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions) • [Modrinth](https://modrinth.com/mod/critters-and-companions) • [Github](https://github.com/bonsaistudi0s/CrittersAndCompanions)
 
 ## 冒险
 
@@ -165,6 +200,13 @@ BetterNether 作者的又一力作！当你安装这个 Mod，并到了末地时
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/9739.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/bamboo-combat) • [Modrinth](https://modrinth.com/mod/bamboo-combat) • [Github](https://github.com/TheRealHenHen/Bamboo-Combat)
 
+### Creeper Overhaul 苦力怕革新
+
+**内容介绍**
+Creeper Overhaul向你的MC世界增加了各种以群系为主题的苦力怕，其中一些苦力怕对玩家是友好的 :)
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5373.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) • Modrinth • [Github](https://github.com/bonsaistudi0s/Creeper-Overhaul)
+
 ## 农业
 
 > 以农业、林业、畜牧业或是增强饮食为主要内容的MOD。
@@ -197,6 +239,48 @@ Blossom 能使游戏中的橡树树叶开花并孕育果实，从而令玩家不
 饮酒作乐是农夫乐事的一个附属模组，围绕着酒桶和发酵机制而展开。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/8841.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin-fabric) • Modrinth • [Github](https://github.com/mrsterner/BrewinAndChewin-Fabric)
+
+### Cultural Delights
+
+**内容介绍**
+本模组为农夫乐事模组的拓展模组，旨在为其添加世界各地的菜系，目前仍在制作过程中。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8807.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cultural-delights-fabric) • Modrinth • [Github](https://github.com/mrsterner/Cultural-Delights-Fabric)
+
+### Coffee Delight 咖啡乐事
+
+**内容介绍**
+又一个农夫乐事的衍生作品！咖啡乐事向你问候！有了咖啡乐事，我们就能够在Minecraft中品味各种咖啡了！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9588.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/coffee-delight) • Modrinth • [Github](https://github.com/AmarokIce/CoffeeDelight)
+
+### Culinaire 烹饪
+
+**内容介绍**
+烹饪（Culinaire）是运行在Minecraft1.18.2版本下的轻量级Fabric模组，它为原版游戏添加了一系列制作精良的食物和简单易上手的烹饪机制，从高自由度的三明治制作，到在炼药锅中凝结奶酪、在水壶中泡茶，您将被其中丰富多彩的内容所吸引。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2943.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/culinaire) • [Modrinth](https://www.modrinth.com/mod/culinaire) • [Github](https://github.com/DawnTeamMC/Culinaire)
+
+### Chef's Delight
+
+**内容介绍**
+本模组为农夫乐事的拓展模组；本模组添加了两种新的村民职业“Cook”与“Chef”，玩家可以分别与他们进行交易，且在平原村庄中会生成与两种新职业分别对应的新建筑结构。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8475.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-fabric) • Modrinth • Github
+
+### Croptopia's Chocolaterie 作物盛景：巧克力工坊
+
+**内容介绍**
+本模组是作物盛景的附属模组，添加了无比真实的巧克力制作过程。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6956.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/croptopias-chocolaterie-fabric) • Modrinth • [Github](https://github.com/Slomaxonical-907/croptopia-chocolaterie)
+
+### Croptopia 作物盛景
+
+**内容介绍**
+适用于高版本（1.16+）的农业向模组；现已添加58种作物，26种果树和超过250种食物！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4225.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/croptopia) • Modrinth • [Github](https://github.com/ExcessiveAmountsOfZombies/Croptopia)
 
 ## 装饰
 
@@ -257,6 +341,48 @@ Blockus 是基于 Fabric API 的 Mod；它添加了多种类型的方块。
 Bamboo Everything添加了一些用竹子做的物品；有竹制的栅栏、栅栏门、门、活版门和梯子等。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/1819.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/bamboo-everything) • Modrinth • [Github](https://github.com/nanite/Bamboo-Everything)
+
+### Chimes
+
+**内容介绍**
+用风铃来装饰你的基地：将铃声带到你的世界！该模组添加了可以悬挂的风铃，它给玩家提供了一个惬意的氛围，你可以用它来规避附近的幻翼。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6988.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chimes) • Modrinth • Github
+
+### Create Deco
+
+**内容介绍**
+Create Deco添加了几种利用机械动力的合成方式制作的新类型装饰性方块，包括彩色砖及其变体、金属板、精致的金属条等等。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5189.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) • Modrinth • [Github](https://github.com/talrey/CreateDeco)
+
+### Connectible Chains
+
+**内容介绍**
+此模组可以将锁链连接在栅栏上。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6259.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/connectible-chains) • Modrinth • [Github](https://github.com/legoatoom/ConnectibleChains)
+
+### Cultural Treasures - Paintings and Music 文化瑰宝 - 画作与乐曲
+
+**内容介绍**
+本模组添加众多中国古代名画，同时每幅画有三个尺寸，清晰度高；添加了一首中华名曲的纯音乐唱片——茉莉花
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6540.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cultural-treasures-paintings) • Modrinth • [Github](https://github.com/Noodles-GG/Cultural-Treasure-Forge-1.18.2)
+
+### Chipped
+
+**内容介绍**
+Chipped是一个1.16+的建筑装饰模组，它扩展了可使用的建筑方块。该模组提供了2000多种独特的方块变种，从彩色玻璃到混凝土、海晶石甚至镶金黑石！不仅所有的纹理都以新的原版风格进行了手绘，而且它们都具备连接纹理！受到流行的凿子模组的启发，让建筑玩家能全面发挥他们的创造力！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4726.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chipped) • [Modrinth](https://modrinth.com/mod/chipped) • [Github](https://github.com/terrarium-earth/Chipped)
+
+### Chirpy's Wildlife
+
+**内容介绍**
+一个添加了各种动物和昆虫的模组。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6223.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chirpys-wildlife) • Modrinth • Github
 
 ## 实用
 
@@ -339,6 +465,62 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/autosnrai
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6944.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/blast) • Modrinth • [Github](https://github.com/Ladysnake/BLAST)
 
+### Chromatic Currents
+
+**内容介绍**
+此模组添加了染色红石；不同颜色的染色红石可以由红石或其他染色红石和染料合成获得。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6151.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chromatic-currents) • [Modrinth](https://modrinth.com/mod/chromatic-currents) • [Github](https://github.com/Fusion-Flux/Multi-Colored-Redstone)
+
+### Combat Enchantments
+
+**内容介绍**
+一个Fabric上的附魔模组，为剑、弓、弩、盔甲等添加了一些新的附魔，在 PVP 与 PVE 中都很平衡（作者原话）。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9413.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/combat-enchantments) • [Modrinth](https://modrinth.com/mod/combatenchantments) • [Github](https://github.com/dsfhdshdjtsb/enchantments)
+
+### Create: Steam 'n Rails 机械动力：汽鸣铁道
+
+**内容介绍**
+机械动力：汽鸣铁道是一个 机械动力 附属，它为现有的铁路系统带来了新的列车元件和装饰性方块，并计划在未来创造一套自己的蒸汽系统，接入机械动力：航空学团队的Landlord结构。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8230.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) • [Modrinth](https://modrinth.com/mod/create-steam-n-rails) • [Github](https://github.com/Layers-of-Railways/Railway)
+
+### Create Chunkloading
+
+**内容介绍**
+本模组是Create Integration的分支，专注于其中的Chunk Loader方块；此方块可以装在动态结构上并保持动态结构所处区块保持常加载。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4637.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/create-chunkloading) • Modrinth • [Github](https://github.com/embeddedt/CreateChunkloading)
+
+### Chess 象棋
+
+**内容介绍**
+在Minecraft中有时也需要讲究策略，这与传统博弈游戏“象棋”的理念有一定的相似之处；此模组在游戏中添加了象棋和棋盘等方块，目前支持的棋类有中国象棋、围棋、五子棋、军棋；强烈建议多人模式使用，和朋友联机一起收集棋子，下棋。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6109.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chess) • Modrinth • [Github](https://github.com/Jissee/Chess)
+
+### Camp Chair
+
+**内容介绍**
+该模组添加了数款野营凳子，你可以将其用作装饰，或者坐在篝火边烤火。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4994.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/camp-chair) • Modrinth • Github
+
+### Charm
+
+**内容介绍**
+Charm是一个受夸克灵感启发的Mod，在不大幅改变Minecraft游戏玩法的情况下改良Minecraft原版的游玩元素。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2069.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/charm) • [Modrinth](https://modrinth.com/mod/charm/) • [Github](https://github.com/svenhjol/Charm)
+
+### Clay Soldiers Reborn
+
+**内容介绍**
+本模组是粘土士兵的 1.18+ 移植版！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9503.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/clay-soldiers-reborn) • Modrinth • [Github](https://github.com/matthewperiut/Clay-Soldiers)
+
 ## 辅助
 
 > 整个模组的重点在于脚本，主要使用GUI/按钮或指令来实现功能，通常未添加新的物品/方块。
@@ -384,6 +566,34 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/autosnrai
 本模组为信标添加了更多的状态效果；使用钻石和下界合金结构可以提供逐渐增强的状态效果。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/4342.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/beaconoverhaul) • [Modrinth](https://modrinth.com/mod/beaconoverhaul) • [Github](https://github.com/ChloeDawn/BeaconOverhaul)
+
+### Companion
+
+**内容介绍**
+这个Mod增加了各种机制来避免玩家失去自己的宠物，以提高游戏体验。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8278.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/companion-fabric) • Modrinth • [Github](https://github.com/Snownee/Companion)
+
+### Clickable advancements 可点击的进度
+
+**内容介绍**
+简单的 Mod，让玩家点击聊天中的进度以打开“进度”窗口；它允许玩家轻松找到并导航到他们获得的进度，让他们更容易探索进度，从而帮助他们更轻松地使用这些模组。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5723.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) • Modrinth • [Github](https://github.com/someaddons/ClickableAdvancements)
+
+### ChatImage 聊天栏图片显示
+
+**内容介绍**
+一个在聊天栏用鼠标悬浮显示图片的模组。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9111.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chatimage) • Modrinth • [Github](https://github.com/kitUIN/ChatImage)
+
+### CTM Refabricated
+
+**内容介绍**
+欢迎来到 CTM Refabricated，这是ConnectedTexturesMod for Fabric的分支；CTM Refabricated 允许资源包添加连接的纹理，高光渲染，以及更多。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6861.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ctm-refabricated) • Modrinth • [Github](https://github.com/CodexAdrian/ConnectedTexturesMod-Fabric/)
 
 ## 魔改
 
@@ -441,3 +651,31 @@ Bad Packets 是一款允许在不同的模组平台之间进行数据包消息�
 Bookshelf 是一个lib mod，它增加了可重复使用的代码，这些代码在几个不同的mod中使用;它还提供了一些对modpacks和服务器有用的杂项调整。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/938.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/bookshelf) • [Modrinth](https://modrinth.com/mod/bookshelf-lib) • [Github](https://github.com/Darkhax-Minecraft/Bookshelf)
+
+### Cardinal Components
+
+**内容介绍**
+Cardinal Components是一款为数据驱动的开发进程所打造的API模组，使开发者能够更容易地在各类 object 中纳入 component。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3989.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cardinal-components) • [Modrinth](https://modrinth.com/mod/cardinal-components-api) • [Github](https://github.com/OnyxStudios/Cardinal-Components-API)
+
+### Cloth API
+
+**内容介绍**
+一款普适的API模组。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3785.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cloth-api) • Modrinth • [Github](https://github.com/shedaniel/cloth-api)
+
+### Cloth Config API
+
+**内容介绍**
+Fabric 和 Forge 的客户端配置屏幕 API。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2346.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cloth-config) • [Modrinth](https://modrinth.com/mod/cloth-config) • [Github](https://github.com/shedaniel/cloth-config)
+
+### Collective
+
+**内容介绍**
+Collective 是一个 Lib 类模组，具有 Serilum 所有模组的通用代码。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2652.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/collective) • [Modrinth](https://modrinth.com/mod/collective) • [Github](https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Collective)
