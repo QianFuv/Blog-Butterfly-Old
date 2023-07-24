@@ -4,7 +4,7 @@ categories: []
 date: '2023-05-19T17:25:53.583633+08:00'
 tags: []
 title: QFproject-Wonder玩家手册
-updated: 2023-7-23T22:41:12.974+8:0
+updated: 2023-7-24T11:43:35.781+8:0
 ---
 # 一、基本条约
 
@@ -119,7 +119,7 @@ updated: 2023-7-23T22:41:12.974+8:0
 ### Create 机械动力
 
 **内容介绍**
-机械动力（Create）是一个围绕着建筑、装饰和机械的新兴模组，所添加的元素旨在为玩家提供全新的建筑与自动化体验，并尽可能多地为玩家预留自定义空间。在机器与能源方面，模组做出了极大的创新。机器不再由传统科技模组中乏味的电线供能，而是需要玩家搭建机械传动系统驱动。加工过程也不再是枯燥的 GUI 里等待进度条一遍遍被填满，机器可以直接与世界中的物品交互，并且加工时有着精美的动画。模组还具有独创的 动态结构 系统，可以使世界中的方块结构作为整体运动，进行各种自动化，并且有着真实的物理效果。
+机械动力（Create）是一个围绕着建筑、装饰和机械的新兴模组，所添加的元素旨在为玩家提供全新的建筑与自动化体验，并尽可能多地为玩家预留自定义空间。在机器与能源方面，模组做出了极大的创新。机器不再由传统科技模组中乏味的电线供能，而是需要玩家搭建机械传动系统驱动；加工过程也不再是枯燥的 GUI 里等待进度条一遍遍被填满，机器可以直接与世界中的物品交互，并且加工时有着精美的动画。模组还具有独创的 动态结构 系统，可以使世界中的方块结构作为整体运动，进行各种自动化，并且有着真实的物理效果。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/2021.html) • [Curseforge](https://modrinth.com/mod/create-fabric) • [Modrinth](https://www.curseforge.com/minecraft/mc-mods/create-fabric) • [Github](https://github.com/Fabricators-of-Create/Create)
 
@@ -222,6 +222,27 @@ Creeper Overhaul向你的MC世界增加了各种以群系为主题的苦力怕�
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/5373.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) • Modrinth • [Github](https://github.com/bonsaistudi0s/Creeper-Overhaul)
 
+### Dragon Drops
+
+**内容介绍**
+此模组添加了基于末影龙的各式武器装备和护甲套装。
+**详情链接**
+MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dragon-drops) • Modrinth • [Github](https://github.com/Boomexe/Dragon-Drops)
+
+### End Remastered 末地：创世
+
+**内容介绍**
+末地：创世旨在让你的生存更具挑战性，添加了12种末影之眼，你需要搜刮原版建筑或在与怪物的战斗中找齐这12种末影之眼并找到要塞中隐藏的传送门房间，放置12种末影之眼，即可进入末地。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3369.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/endremastered-fabric) • Modrinth • [Github](https://github.com/Team-Remastered/End-Remastered-fabric)
+
+### Extra Origins
+
+**内容介绍**
+本MOD为起源 (Origins (Fabric)) 增加了种族；同样，这也是一个Fabric Mod，需要Fabric API。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3117.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extra-origins) • Modrinth • [Github](https://github.com/MoriyaShiine/extra-origins)
+
 ## 农业
 
 > 以农业、林业、畜牧业或是增强饮食为主要内容的MOD。
@@ -296,6 +317,27 @@ Blossom 能使游戏中的橡树树叶开花并孕育果实，从而令玩家不
 适用于高版本（1.16+）的农业向模组；现已添加58种作物，26种果树和超过250种食物！
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/4225.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/croptopia) • Modrinth • [Github](https://github.com/ExcessiveAmountsOfZombies/Croptopia)
+
+### Drink Beer Unofficial: Clockwerk Edition
+
+**内容介绍**
+喝啤酒啦的非官方Fabric版本；酿造、贸易和调酒现在来到了1.18.2及以上版本！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8395.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/drink-beer-unofficial-clockwerk-edition) • Modrinth • [Github](https://github.com/ClockwerkKaiser/DrinkBeer)
+
+### Expanded Delight 扩充乐事
+
+**内容介绍**
+Expanded Delight是农夫乐事的扩展，加入了芦笋、肉桂、花生的作物与食物，加入了盐、杵臼与冷却盒来调味与加工。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6442.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/expanded-delight) • [Modrinth](https://modrinth.com/mod/expanded-delight) • [Github](https://github.com/ianm1647/expandeddelight)
+
+### Endless Cake 无尽的蛋糕
+
+**内容介绍**
+这个mod只添加了一个物品：无尽的蛋糕，它的配方是原版蛋糕配方，但是把鸡蛋换成了龙蛋；这个物品是一个无限食物源，但是它只能被放下一次。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9042.html) • [Curseforge](https://modrinth.com/mod/endless_cake) • Modrinth • [Github](https://github.com/hugeblank/endless_cake)
 
 ## 装饰
 
@@ -398,6 +440,69 @@ Chipped是一个1.16+的建筑装饰模组，它扩展了可使用的建筑方�
 一个添加了各种动物和昆虫的模组。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6223.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chirpys-wildlife) • Modrinth • Github
+
+### Display Case 陈列柜
+
+**内容介绍**
+陈列柜（Display Case）添加了一个可以装入任何物品或方块的装饰品，材质与1.16新增的锁链非常匹配。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6884.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/displaycase) • Modrinth • Github
+
+### Diagonal Panes 对角线玻璃板
+
+**内容介绍**
+增加了斜放的玻璃板；当玻璃板呈L型摆放时，他们会平滑的连接起来。（X和T型则不会）
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/1935.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/diagonal-panes) • Modrinth • [Github](https://github.com/magneticflux-/fabric-diagonal-panes)
+
+### Dark Paintings
+
+**内容介绍**
+这个模组为游戏添加了各种各样的新画作；这些画作与原版画作完美融入，并使用原版画物品放置在世界中。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8079.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dark-paintings) • Modrinth • [Github](https://github.com/Darkhax-Minecraft/Dark-Paintings)
+
+### Decor4Fabric
+
+**内容介绍**
+Decor4Fabric 为游戏添加了许多新的家具方块，其中大多数都拥有特殊的功能。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8359.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/decor4fabric) • Modrinth • [Github](https://github.com/GmsGarcia/decor4fabric)
+
+### Duckling
+
+**内容介绍**
+本模组添加了几只可爱的鸭子，他们会在河流群系中生成；另外还有一种仅在沼泽可以找到的 NPC 鸭子，可以与它进行交易。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6230.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/duckling) • Modrinth • [Github](https://github.com/ThatGravyBoat/Duckling)
+
+### Dave's Building Extended
+
+**内容介绍**
+Dave's Building Extended 是一款建筑向的模组，提供了几个工厂与火车的建筑方块和一些粒子、音效和声音合成器；所有的方块纹理都基于原版的纹理而制作，以符合原版审美。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/7928.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/daves-building-extended-fabric) • Modrinth • [Github](https://github.com/SpaceDave1337/dbExtended)
+
+### Decorative Blocks 装饰方块
+
+**内容介绍**
+Decorative Blocks 是一个小型模组，它新增了一些装饰性方块。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2900.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) • Modrinth • [Github](https://github.com/lilypuree/Decorative-Blocks)
+
+### Ecologics 丰富的生态
+
+**内容介绍**
+本模组对原版群系进行了一些更新，让原版群系更加生动有趣。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6198.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ecologics) • [Modrinth](https://modrinth.com/mod/ecologics) • [Github](https://github.com/samedifferent/Ecologics)
+
+### Extended Block Shapes 扩展方块形状
+
+**内容介绍**
+本模组为许多的原版方块添加了其楼梯、台阶、栅栏、栅栏门、按钮和压力板，以及原版不具有的竖直台阶、竖直楼梯、横条、纵条。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4535.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-block-shapes) • [Modrinth](https://modrinth.com/mod/extshape) • [Github](https://github.com/SolidBlock-cn/extshape)
 
 ## 实用
 
@@ -536,6 +641,62 @@ Charm是一个受夸克灵感启发的Mod，在不大幅改变Minecraft游戏玩
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/9503.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/clay-soldiers-reborn) • Modrinth • [Github](https://github.com/matthewperiut/Clay-Soldiers)
 
+### Disc holder & DJ
+
+**内容介绍**
+本模组添加了 16 种新的 唱片架，对应原版的每种羊毛颜色；一个唱片架可以放置 7 张唱片，并拥有自己的物品栏。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/7719.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/disc-holders-dj) • Modrinth • [Github](https://github.com/dmkenza/DiscHolder_Fabric)
+
+### Dark Utilities
+
+**内容介绍**
+Dark Utilities 是一个具有广泛用途的MOD；该MOD添加了许多在很多方面实用的新物品和新方块；该MOD里的物品都有它们的用处。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/802.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) • [Modrinth](https://modrinth.com/mod/dark-utilities) • [Github](https://github.com/Darkhax-Minecraft/Dark-Utilities)
+
+### Doodads
+
+**内容介绍**
+本模组添加了超过 250 个不同的趣味小工具。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9708.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/doodads-fabric) • Modrinth • [Github](https://github.com/ArcanePigeon/Doodads)
+
+### Etched
+
+**内容介绍**
+Etched 是一个让你可以在MC中制作自定义唱片的模组，与更好的播放器模组相似，但本模组更偏向于原版游戏风格。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5735.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/etched) • Modrinth • [Github](https://github.com/MoonflowerTeam/etched)
+
+### Extended Drawers
+
+**内容介绍**
+此模组受储物抽屉启发，旨在使用简单的组件创建强大的存储系统。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6379.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-drawers) • [Modrinth](https://modrinth.com/mod/extended-drawers) • [Github](https://github.com/MattiDragon/ExtendedDrawers)
+
+### Extended Block Shapes - Blockus
+
+**内容介绍**
+此模组提供了Extended Block Shapes和Blockus的兼容性。
+**详情链接**
+MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-block-shapes-blockus) • [Modrinth](https://modrinth.com/mod/extshape_blockus) • [Github](https://github.com/SolidBlock-cn/extshape)
+
+### Exline's Candy Mod
+
+**内容介绍**
+此模组添加了一些糖果。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5429.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/exlines-candy-mod) • Modrinth • Github
+
+### Equippable utilities
+
+**内容介绍**
+此模组从泰拉瑞亚借鉴并引入了25件饰品；所有的饰品都可以放入Trinkets的饰品栏中。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6380.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/equippable-utilities) • [Modrinth](https://modrinth.com/mod/utilities) • [Github](https://github.com/ImExoOdeex/Utilities)
+
 ## 辅助
 
 > 整个模组的重点在于脚本，主要使用GUI/按钮或指令来实现功能，通常未添加新的物品/方块。
@@ -609,6 +770,34 @@ Charm是一个受夸克灵感启发的Mod，在不大幅改变Minecraft游戏玩
 欢迎来到 CTM Refabricated，这是ConnectedTexturesMod for Fabric的分支；CTM Refabricated 允许资源包添加连接的纹理，高光渲染，以及更多。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6861.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ctm-refabricated) • Modrinth • [Github](https://github.com/CodexAdrian/ConnectedTexturesMod-Fabric/)
+
+### DualWielding 双持
+
+**内容介绍**
+本模组可以让你的副手使用武器进行战斗。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6591.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dualwielding) • [Modrinth](https://modrinth.com/mod/dualwielding) • [Github](https://github.com/Globox1997/DualWielding)
+
+### Enchantments-Plus
+
+**内容介绍**
+这个模组增加了 10 多个有用的新附魔，在不偏离原版的玩法下，增加了可玩性；大多数附魔都可以在原版附魔台中找到，尽管有些附魔是宝藏附魔。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/10122.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/enchantments-plus-fabric) • [Modrinth](https://modrinth.com/mod/enchantments-plus) • [Github](https://github.com/RobertHoueland/enchantments-plus/)
+
+### Elytra Trinket 鞘翅插槽
+
+**内容介绍**
+这个模组添加了背部槽位，允许你将鞘翅放在里面；可以在不减少盔甲位置的情况下使用鞘翅。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3923.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/elytra-slot-fabric) • [Modrinth](https://modrinth.com/mod/elytra-slot) • [Github](https://github.com/illusivesoulworks/elytraslot)
+
+### Extract Poison
+
+**内容介绍**
+本模组允许你用玻璃瓶从洞穴蜘蛛，河豚（实体鱼，1.13+），蜜蜂（1.15+）身上提取中毒药水；就像从牛身上提取牛奶一样，从单个生物上提取中毒药水也有冷却时间。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6138.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extract-poison-fabric) • Modrinth • [Github](https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Extract%20Poison)
 
 ## 魔改
 
@@ -694,6 +883,20 @@ Fabric 和 Forge 的客户端配置屏幕 API。
 Collective 是一个 Lib 类模组，具有 Serilum 所有模组的通用代码。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/2652.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/collective) • [Modrinth](https://modrinth.com/mod/collective) • [Github](https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Collective)
+
+### Dawn API
+
+**内容介绍**
+Dawn API是Dawn Team团队系列模组的前置模组，其本身还添加了一些附魔和状态效果。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3373.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dawn) • [Modrinth](https://modrinth.com/mod/dawn) • [Github](https://github.com/DawnTeamMC/DawnAPI)
+
+### Double Jump Attribute
+
+**内容介绍**
+为玩家提供了额外的空中跳跃属性；此属性可以像任何其他属性一样应用于 1024 的上限。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5865.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/double-jump-attribute) • [Modrinth](https://www.modrinth.com/mod/double-jump-attribute) • [Github](https://github.com/AmyMialeeMods/double-jump-attribute)
 
 # 六、常见问题Q&A
 
