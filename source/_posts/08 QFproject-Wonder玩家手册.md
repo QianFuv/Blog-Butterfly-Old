@@ -4,7 +4,7 @@ categories: []
 date: '2023-05-19T17:25:53.583633+08:00'
 tags: []
 title: QFproject-Wonder玩家手册
-updated: 2023-7-24T11:43:35.781+8:0
+updated: 2023-7-25T18:52:59.117+8:0
 ---
 # 一、基本条约
 
@@ -243,6 +243,13 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dragon-dr
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/3117.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extra-origins) • Modrinth • [Github](https://github.com/MoriyaShiine/extra-origins)
 
+### Friends & Foes
+
+**内容介绍**
+这个Mod将被Minecraft淘汰的更新内容重新加入了游戏！包括但不限于：怒目怪，哞花，铜傀儡等！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6232.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes) • [Modrinth](https://modrinth.com/mod/friends-and-foes) • [Github](https://github.com/Faboslav/friends-and-foes)
+
 ## 农业
 
 > 以农业、林业、畜牧业或是增强饮食为主要内容的MOD。
@@ -338,6 +345,20 @@ Expanded Delight是农夫乐事的扩展，加入了芦笋、肉桂、花生的�
 这个mod只添加了一个物品：无尽的蛋糕，它的配方是原版蛋糕配方，但是把鸡蛋换成了龙蛋；这个物品是一个无限食物源，但是它只能被放下一次。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/9042.html) • [Curseforge](https://modrinth.com/mod/endless_cake) • Modrinth • [Github](https://github.com/hugeblank/endless_cake)
+
+### Farmer's Delight 农夫乐事
+
+**内容介绍**
+农夫乐事主要丰富了耕作与烹饪方面的内容，并为现有的物品和方块提供了更多用途。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2820.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric) • [Modrinth](https://modrinth.com/mod/farmers-delight-fabric) • [Github](https://github.com/newhoryzon/farmers-delight-fabric)
+
+### Farmer's Knives
+
+**内容介绍**
+为Fabric版本的农夫乐事添加了多个模组的联动小刀。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6927.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/farmers-knives) • [Modrinth](https://modrinth.com/mod/farmers-knives) • [Github](https://github.com/ianm1647/farmersknives)
 
 ## 装饰
 
@@ -503,6 +524,20 @@ Decorative Blocks 是一个小型模组，它新增了一些装饰性方块。
 本模组为许多的原版方块添加了其楼梯、台阶、栅栏、栅栏门、按钮和压力板，以及原版不具有的竖直台阶、竖直楼梯、横条、纵条。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/4535.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-block-shapes) • [Modrinth](https://modrinth.com/mod/extshape) • [Github](https://github.com/SolidBlock-cn/extshape)
+
+### Floral Flair
+
+**内容介绍**
+此模组为 Minecraft 添加了许多可爱的花朵；目前已添加 16 朵新花，但随时间推移会添加更多，并且计划添加新的方式来展示采摘的所有美丽花朵。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9297.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/floral-flair-fabric) • Modrinth • [Github](https://github.com/Chalkboard-Mods/floral-flair-fabric)
+
+### Floral Enchantment
+
+**内容介绍**
+想找一个简单的 Mod 来装饰？这个 Mod 增加了花丛，通过它可以获得每种花的藤蔓；另外，也为苔石砖和苔石增加了每种花的变种。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9725.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/floral-enchantment-fabric) • Modrinth • Github
 
 ## 实用
 
@@ -697,6 +732,20 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6380.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/equippable-utilities) • [Modrinth](https://modrinth.com/mod/utilities) • [Github](https://github.com/ImExoOdeex/Utilities)
 
+### Fabric Musica
+
+**内容介绍**
+这个模组旨在扩展 Minecraft 中的音乐，目前已经添加了 209 张新的音乐唱片，所有的唱片都可以通过新的音乐混合器（Song Mixer）方块获得。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/10838.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-musica) • Modrinth • [Github](https://github.com/LordDeatHunter/Musica)
+
+### Fabric Waystones Fabric版传送石碑
+
+**内容介绍**
+“Adds a better way of transport.”
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4333.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones) • [Modrinth](https://modrinth.com/mod/fwaystones) • [Github](https://github.com/LordDeatHunter/FabricWaystones)
+
 ## 辅助
 
 > 整个模组的重点在于脚本，主要使用GUI/按钮或指令来实现功能，通常未添加新的物品/方块。
@@ -714,6 +763,13 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-
 这个模组为食物添加了饱食度、饱和度和预估能恢复的血量显示。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/744.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/appleskin) • [Modrinth](https://modrinth.com/mod/appleskin) • [Github](https://github.com/squeek502/AppleSkin)
+
+### Anvil Repairing
+
+**内容介绍**
+该模组允许玩家通过手持铁锭右击铁砧来修复破损的铁砧。这将使铁砧的修复进度提升一阶。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/11269.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/anvil-repairing) • [Modrinth](https://modrinth.com/mod/anvil-repairing) • [Github](https://github.com/Darkhax-Minecraft/Anvil-Repairing)
 
 ### Advancements Debug
 
@@ -735,6 +791,13 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-
 这个mod是blockmeter的延续；原作者不再更新原mod了；这个MOD基于MIT许可证发布；它允许你测量建筑或区域的大小，这样你就可以验证方块的数量是否和你想要的一样。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/3044.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/blockmeterfabric) • [Modrinth](https://modrinth.com/mod/blockmeter) • [Github](https://github.com/ModProg/BlockMeter)
+
+### Better Log4j Config
+
+**内容介绍**
+与原版相比，这个模组添加了输出每个日志消息的模组的名称，因此可以让玩家更容易分辨出日志由哪个模组输出，从而使日志的可读性将大大提高。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/11056.html) • Curseforge • [Modrinth](https://modrinth.com/mod/better-log4j-config) • [Github](https://github.com/Pixelstormer/better_log4j_config/)
 
 ### Beacon Overhaul 信标改革
 
@@ -778,12 +841,33 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6591.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dualwielding) • [Modrinth](https://modrinth.com/mod/dualwielding) • [Github](https://github.com/Globox1997/DualWielding)
 
+### DEUF Refabricated
+
+**内容介绍**
+DEUF Refabricated 是 DEUF（Duplicated Entity UUID Fixer）的 Fabric 移植版。它修复了被欺骗的UUID，删除了日志垃圾邮件并修复了一些崩溃。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/11228.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/deuf-refabricated) • Modrinth • [Github](https://github.com/nvb-uy/DEUF-Refabricated)
+
 ### Enchantments-Plus
 
 **内容介绍**
 这个模组增加了 10 多个有用的新附魔，在不偏离原版的玩法下，增加了可玩性；大多数附魔都可以在原版附魔台中找到，尽管有些附魔是宝藏附魔。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/10122.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/enchantments-plus-fabric) • [Modrinth](https://modrinth.com/mod/enchantments-plus) • [Github](https://github.com/RobertHoueland/enchantments-plus/)
+
+### Eldritch Mobs
+
+**内容介绍**
+Eldritch Mobs 会在世界中生成强大的精英怪物；精英怪物十分危险，拥有独特而强大的能力，击败它们就会获得丰富的回报。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2819.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/eldritch-mobs) • Modrinth • [Github](https://github.com/HyperPigeon/Eldritch-Mobs)
+
+### Ender Chests
+
+**内容介绍**
+本模组添加了三种物品——末影链接箱、末影链接袋、末影袋。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/10948.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/enderchests-fabric) • Modrinth • Github
 
 ### Elytra Trinket 鞘翅插槽
 
@@ -798,6 +882,41 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-
 本模组允许你用玻璃瓶从洞穴蜘蛛，河豚（实体鱼，1.13+），蜜蜂（1.15+）身上提取中毒药水；就像从牛身上提取牛奶一样，从单个生物上提取中毒药水也有冷却时间。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6138.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extract-poison-fabric) • Modrinth • [Github](https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Extract%20Poison)
+
+### Fabric Enchantments
+
+**内容介绍**
+本模组添加了 20 多种适用于不同的工具，盔甲和武器的附魔。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/7816.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-enchantments) • Modrinth • [Github](https://github.com/Safrodev/fabricenchantments)
+
+### FastBench for Fabric 工作台性能优化Fabric版
+
+**内容介绍**
+这是一个合成优化Mod，它会缓存玩家最后使用的合成表，下一次使用工作台前，他会在重新扫描整个注册表之前先检查此配方；这使得玩家使用shift+点击来合成时，游戏的反应速度会更快。对于服务器来说，它仅在最后需要时发送数据包，而不是在客户端中工作台上物品发生改变时发送，从而减少流量的使用。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5403.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fastbench-for-fabric) • Modrinth • [Github](https://github.com/Tfarcenim/FabricFastBench)
+
+### Fast Furnace for Fabric 熔炉性能优化Fabric版
+
+**内容介绍**
+本模组对于原版的熔炉、高炉和烟熏炉做出调整，使得他们在更新时运行得更加快速，以改善TPS；类似于FastWorkbench，本模组缓存了最后使用过的配方，在重新读取所有配方前载入这个配方；这相对于原版熔炉每tick载入所有熔炉配方来说快得多；同时，这可能对于原版游戏来说收益不大，但是在修改过的或装了模组的游戏内，游戏越庞大，载入就越快。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3079.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric) • Modrinth • [Github](https://github.com/Tfarcenim/FabricFastFurnace)
+
+### FerriteCore 铁氧体磁芯
+
+**内容介绍**
+铁氧体磁芯是一个支持 Forge/Fabric/Quilt 的优化 Mod，它可以以几种不同的优化方式减少内存占用。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3888.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) • [Modrinth](https://modrinth.com/mod/ferrite-core) • [Github](https://github.com/malte0811/FerriteCore)
+
+### FTB Backups 2 FTB备份2
+
+**内容介绍**
+FTB备份（FTB Backups）的最新版本，支持Minecraft 1.18及以上的版本。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6688.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2) • Modrinth • [Github](https://github.com/CreeperHost/FTB-Backups-2)
 
 ## 魔改
 
@@ -897,6 +1016,41 @@ Dawn API是Dawn Team团队系列模组的前置模组，其本身还添加了一
 为玩家提供了额外的空中跳跃属性；此属性可以像任何其他属性一样应用于 1024 的上限。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/5865.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/double-jump-attribute) • [Modrinth](https://www.modrinth.com/mod/double-jump-attribute) • [Github](https://github.com/AmyMialeeMods/double-jump-attribute)
+
+### Fabric API
+
+**内容介绍**
+Fabric 由 Fabric-loom , Fabric-Loader 和 Fabric API 组成，其中 Fabric-Loader 是最基础的组件；在大多数情况下需要同时安装 Loader 和 API，面对开发者还需要 Fabric-loom。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3124.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) • [Modrinth](https://www.modrinth.com/mod/fabric-api) • [Github](https://github.com/FabricMC/fabric)
+
+### Fabric Language Kotlin
+
+**内容介绍**
+一个可将Kotlin语言用于Fabric模组的模组；简单来说用Kotlin语言写的模组要用它才能使用。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2126.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) • [Modrinth](https://modrinth.com/mod/fabric-language-kotlin) • [Github](https://github.com/FabricMC/fabric-language-kotlin)
+
+### Feature NBT Deadlock Be Gone
+
+**内容介绍**
+这个模组的唯一目标是修复1.18MC的Bug，同时也是1.18+版本结构变体与IDAS的前置模组。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5838.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) • [Modrinth](https://modrinth.com/mod/feature-nbt-deadlock-be-gone) • [Github](https://github.com/TelepathicGrunt/FeatureNBTDeadlockBeGone)
+
+### Forge Config API Port
+
+**内容介绍**
+Forge Config API Port在Fabric构建了一整个Forge配置API，这以便于将模组移植到Fabric上而减少修改。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5510.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric) • [Modrinth](https://modrinth.com/mod/forge-config-api-port) • [Github](https://github.com/Fuzss/forgeconfigapiport)
+
+### Fzzy Core
+
+**内容介绍**
+本模组是fzzyhmstrs的作品所用的前置API。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9212.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fzzy-core) • [Modrinth](https://modrinth.com/mod/fzzy-core) • [Github](https://github.com/fzzyhmstrs/fc)
 
 # 六、常见问题Q&A
 
