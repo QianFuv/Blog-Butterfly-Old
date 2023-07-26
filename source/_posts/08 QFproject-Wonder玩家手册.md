@@ -4,7 +4,7 @@ categories: []
 date: '2023-05-19T17:25:53.583633+08:00'
 tags: []
 title: QFproject-Wonder玩家手册
-updated: 2023-7-25T18:52:59.117+8:0
+updated: 2023-7-26T17:36:34.631+8:0
 ---
 # 一、基本条约
 
@@ -144,6 +144,13 @@ Create Crafts & Additions 扩展了机械动力，并充当机械动力的动能
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/3518.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) • [Modrinth](https://modrinth.com/mod/cc-restitched) • [Github](https://github.com/cc-tweaked/cc-restitched)
 
+### Immersive Aircraft 沉浸式飞机
+
+**内容介绍**
+本模组是一个忠于原版的、细致的模组，目的是为 Minecraft 添加一些好用的设备、飞机。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8527.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) • [Modrinth](https://modrinth.com/mod/immersive-aircraft) • [Github](https://github.com/Luke100000/ImmersiveAircraft)
+
 ## 魔法
 
 > 含有架空的世界观，且不满足冒险元素的定义，如魔力、法术、符文、祭坛、结界等内容。
@@ -168,6 +175,20 @@ Create Crafts & Additions 扩展了机械动力，并充当机械动力的动能
 Critters and Companions是一个原版风格的生物模组，它将用新的动物填满整个世界！
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/7129.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions) • [Modrinth](https://modrinth.com/mod/critters-and-companions) • [Github](https://github.com/bonsaistudi0s/CrittersAndCompanions)
+
+### Hex Casting 咒法学
+
+**内容介绍**
+咒法学是一个关于施法的模组，受 Psi 的启发，但朝着迥异的方向发展。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6446.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/hexcasting) • [Modrinth](https://modrinth.com/mod/hex-casting) • [Github](https://github.com/gamma-delta/HexMod)
+
+### Hexal 咒法拓展
+
+**内容介绍**
+Hexal在咒法学的基础上，添加了一些简单的图案，与一个可以帮助你施法的全新实体——咒灵。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9798.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/hexal) • [Modrinth](https://modrinth.com/mod/hexal) • [Github](https://github.com/Talia-12/Hexal)
 
 ## 冒险
 
@@ -249,6 +270,55 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dragon-dr
 这个Mod将被Minecraft淘汰的更新内容重新加入了游戏！包括但不限于：怒目怪，哞花，铜傀儡等！
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6232.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes) • [Modrinth](https://modrinth.com/mod/friends-and-foes) • [Github](https://github.com/Faboslav/friends-and-foes)
+
+### Galacticborn Origin
+
+**内容介绍**
+本 Mod 为起源添加了一个新的种族：Galacticborn，在种族选择界面使用玻璃作为图标。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/7423.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/galacticborn-origin) • Modrinth • Github
+
+### Goodall
+
+**内容介绍**
+本模组新增了多种野生动物，能使你的世界更有生机。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/7116.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/goodall) • Modrinth • [Github](https://github.com/ThatGravyBoat/Goodall)
+
+### Hopo Better Underwater Ruins
+
+**内容介绍**
+准备好探索海洋！这次的战利品要比以往好得多，但也要准备好对抗敌人。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9558.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/hopo-better-underwater-ruins) • [Modrinth](https://modrinth.com/datapack/better-underwater-ruins) • Github
+
+### Immersive Armors 沉浸式盔甲
+
+**内容介绍**
+这个 Mod 添加了更多特别的，原版风格的盔甲。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6208.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersive-armors) • [Modrinth](https://modrinth.com/mod/immersive-armors) • [Github](https://github.com/Luke100000/ImmersiveArmors)
+
+### Impaled 更多三叉戟
+
+**内容介绍**
+本模组增加了一些新的三叉戟，新的附魔（忠诚IV），以及对所有三叉戟的一些调整和修复。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6487.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/impaled) • Modrinth • [Github](https://github.com/Ladysnake/Impaled)
+
+### Icarus (Fabric) 伊卡洛斯之翼Fabric版
+
+**内容介绍**
+伊卡洛斯是一个小型模组，增加了各种丰富多彩和独特的翅膀，可以在小饰品斗篷插槽中佩戴。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5401.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/icarus) • Modrinth • [Github](https://github.com/CammiePone/Icarus)
+
+### Illager Expansion
+
+**内容介绍**
+这个 Mod 加入了更多种类的灾厄村民，以及一些新结构；你将在新增的结构中找到这些新的灾厄村民，同时你也可以通过幻术塔结构找到已被隐藏的幻术师！如果你不喜欢四处飘荡，你也可以在袭击中发现他们！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6207.html) • Curseforge • [Modrinth](https://modrinth.com/mod/illager-expansion-polymer) • [Github](https://github.com/PolymerPorts/Illager-Expansion-Rematch)
 
 ## 农业
 
@@ -359,6 +429,13 @@ Expanded Delight是农夫乐事的扩展，加入了芦笋、肉桂、花生的�
 为Fabric版本的农夫乐事添加了多个模组的联动小刀。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6927.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/farmers-knives) • [Modrinth](https://modrinth.com/mod/farmers-knives) • [Github](https://github.com/ianm1647/farmersknives)
+
+### Go Fish 一起钓鱼吧
+
+**内容介绍**
+Go Fish 是一个增强钓鱼趣味性的 Fabric 模组，灵感来源于星露谷物语和泰拉瑞亚；添加了讨人喜欢的新战利品和富有创意的水生生物，使你的钓鱼生活不再枯燥，打造一种极好的钓鱼体验。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3416.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/go-fish) • Modrinth • [Github](https://github.com/Draylar/go-fish)
 
 ## 装饰
 
@@ -538,6 +615,20 @@ Decorative Blocks 是一个小型模组，它新增了一些装饰性方块。
 想找一个简单的 Mod 来装饰？这个 Mod 增加了花丛，通过它可以获得每种花的藤蔓；另外，也为苔石砖和苔石增加了每种花的变种。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/9725.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/floral-enchantment-fabric) • Modrinth • Github
+
+### Grass Overhaul
+
+**内容介绍**
+此模组添加了可堆叠的地毯，台阶和方块形式的草皮块；这些草皮可用于制作更细致的地形，同时保留原版外观。与纹理包兼容。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9530.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul) • Modrinth • [Github](https://github.com/nvb-uy/grass-overhaul)
+
+### Grim Statues Grim的雕像
+
+**内容介绍**
+这个模组添加了可摆成各种姿式雕像！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4854.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/grim-statues) • Modrinth • [Github](https://github.com/TheGrimsey/Statues)
 
 ## 实用
 
@@ -746,6 +837,27 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/4333.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones) • [Modrinth](https://modrinth.com/mod/fwaystones) • [Github](https://github.com/LordDeatHunter/FabricWaystones)
 
+### Hephaestus 匠神
+
+**内容介绍**
+此模组是匠魂3的Fabric/Quilt非官方移植版。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/7524.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/hephaestus-fabric) • [Modrinth](https://modrinth.com/mod/hephaestus) • [Github](https://github.com/Alpha-s-Stuff/TinkersConstruct)
+
+### Heartstone
+
+**内容介绍**
+本模组添加了用于寻找其他玩家的“心之石”。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9822.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/heartstone) • [Modrinth](https://modrinth.com/mod/heartstone) • [Github](https://github.com/MehVahdJukaar/heartstone)
+
+### Instrument++ 更多乐器
+
+**内容介绍**
+众所周知，音符盒会根据其下方方块的种类，演奏出对应的不同乐器的音色。但原版只提供了 16 种乐器，少到我们很难演奏出乐器丰富、张力较强的歌曲；你为什么不试试这个模组？Instrument++ 为音符盒添加了更多乐器，其中不乏有中国传统乐器！享受音乐的世界吧！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8416.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/instrument) • [Modrinth](https://modrinth.com/mod/instrument%2B%2B) • [Github](https://github.com/Viola-Siemens/Instrument-Plus-Plus)
+
 ## 辅助
 
 > 整个模组的重点在于脚本，主要使用GUI/按钮或指令来实现功能，通常未添加新的物品/方块。
@@ -918,6 +1030,20 @@ FTB备份（FTB Backups）的最新版本，支持Minecraft 1.18及以上的版�
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6688.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2) • Modrinth • [Github](https://github.com/CreeperHost/FTB-Backups-2)
 
+### Harvest with ease
+
+**内容介绍**
+收割庄稼是一件痛苦的事。玩家必须把它们全部打碎以获得种子，然后不得不重新种植每一棵；有了这个mod，这种情况将不再发生！您只需右键单击作物即可收获它们并留下新的植株来生长！它还可与任何模组添加作物兼容，让您更轻松地完成收获！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9157.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease) • [Modrinth](https://modrinth.com/mod/harvest-with-ease) • [Github](https://github.com/Nyphet/harvest-with-ease)
+
+### HT's TreeChop
+
+**内容介绍**
+本模组允许通过反复破坏单个方块的方式来砍倒树木；整棵树只会在一定次数的砍伐后被砍倒，而更大的树需要更多次砍伐才能砍倒。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6554.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/treechop) • Modrinth • [Github](https://github.com/hammertater/treechop)
+
 ## 魔改
 
 > 以提供给服务器管理人员或整合包作者自定义修改玩法的功能为主的MOD，例如自定义合成表、物品、世界生成器等。
@@ -1051,6 +1177,20 @@ Forge Config API Port在Fabric构建了一整个Forge配置API，这以便于将
 本模组是fzzyhmstrs的作品所用的前置API。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/9212.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fzzy-core) • [Modrinth](https://modrinth.com/mod/fzzy-core) • [Github](https://github.com/fzzyhmstrs/fc)
+
+### GeckoLib
+
+**内容介绍**
+Geckolib 是 Minecraft Java 版正运动学模型动画引擎，它允许玩家导出基岩版动画并自动播放它们。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3232.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/geckolib) • [Modrinth](https://modrinth.com/mod/geckolib) • [Github](https://github.com/bernie-g/geckolib)
+
+### Iceberg 冰山
+
+**内容介绍**
+此模组为其它模组的前置库；其本身拥有使工具提示 (tooltip) 按换行符换行，并在超出屏幕时自动换行的功能。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5074.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric) • [Modrinth](https://modrinth.com/mod/iceberg) • [Github](https://github.com/AHilyard/Iceberg)
 
 # 六、常见问题Q&A
 
