@@ -4,7 +4,7 @@ categories: []
 date: '2023-05-19T17:25:53.583633+08:00'
 tags: []
 title: QFproject-Wonder玩家手册
-updated: 2023-7-26T17:36:34.631+8:0
+updated: 2023-8-1T17:41:11.135+8:0
 ---
 # 一、基本条约
 
@@ -143,6 +143,13 @@ Create Crafts & Additions 扩展了机械动力，并充当机械动力的动能
 此模组添加了计算机，显示器，有线或无线网络，机器人，打印机以及其他电脑外设。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/3518.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) • [Modrinth](https://modrinth.com/mod/cc-restitched) • [Github](https://github.com/cc-tweaked/cc-restitched)
+
+### Immersive Aircraft 沉浸式飞机
+
+**内容介绍**
+本模组是一个忠于原版的、细致的模组，目的是为 Minecraft 添加一些好用的设备、飞机。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8527.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) • [Modrinth](https://modrinth.com/mod/immersive-aircraft) • [Github](https://github.com/Luke100000/ImmersiveAircraft)
 
 ### Immersive Aircraft 沉浸式飞机
 
@@ -320,6 +327,55 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dragon-dr
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6207.html) • Curseforge • [Modrinth](https://modrinth.com/mod/illager-expansion-polymer) • [Github](https://github.com/PolymerPorts/Illager-Expansion-Rematch)
 
+### Immersive Armors 沉浸式盔甲
+
+**内容介绍**
+这个 Mod 添加了更多特别的，原版风格的盔甲。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6208.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersive-armors) • [Modrinth](https://modrinth.com/mod/immersive-armors) • [Github](https://github.com/Luke100000/ImmersiveArmors)
+
+### Impaled 更多三叉戟
+
+**内容介绍**
+本模组增加了一些新的三叉戟，新的附魔（忠诚IV），以及对所有三叉戟的一些调整和修复。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6487.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/impaled) • Modrinth • [Github](https://github.com/Ladysnake/Impaled)
+
+### Icarus 伊卡洛斯之翼
+
+**内容介绍**
+伊卡洛斯是一个小型模组，增加了各种丰富多彩和独特的翅膀，可以在小饰品斗篷插槽中佩戴。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5401.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/icarus) • Modrinth • [Github](https://github.com/CammiePone/Icarus)
+
+### Illager Expansion
+
+**内容介绍**
+这个 Mod 加入了更多种类的灾厄村民，以及一些新结构；你将在新增的结构中找到这些新的灾厄村民，同时你也可以通过幻术塔结构找到已被隐藏的幻术师；如果你不喜欢四处飘荡，你也可以在袭击中发现他们！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6207.html) • Curseforge • [Modrinth](https://modrinth.com/mod/illager-expansion-polymer) • [Github](https://github.com/PolymerPorts/Illager-Expansion-Rematch)
+
+### Lush Forests
+
+**内容介绍**
+这个模组添加了一些新的生物群系，例如繁茂森林、郁郁繁茂山谷、郁郁繁茂丛林和繁茂白桦林；繁茂森林是繁茂洞穴的地上变体，它们包含小丛林树、繁茂洞穴装饰（杜鹃花、发光浆果和苔藓等），甚至在它们下面还有繁茂洞穴；蝾螈和热带鱼会在繁茂森林中生成。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9344.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lush-forests) • Modrinth • [Github](https://github.com/Albertsmods/Lush-Forest)
+
+### Lankaster's Origins
+
+**内容介绍**
+起源的附属MOD，增加了3个种族。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6352.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lankaster-origins) • Modrinth • Github
+
+### Llamarama 羊驼
+
+**内容介绍**
+这个模组添加了许多种羊驼，并添加了一系列关于羊驼的物品。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9714.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/llamarama) • Modrinth • [Github](https://github.com/LlamaramaTeam/Llamarama)
+
 ## 农业
 
 > 以农业、林业、畜牧业或是增强饮食为主要内容的MOD。
@@ -436,6 +492,13 @@ Expanded Delight是农夫乐事的扩展，加入了芦笋、肉桂、花生的�
 Go Fish 是一个增强钓鱼趣味性的 Fabric 模组，灵感来源于星露谷物语和泰拉瑞亚；添加了讨人喜欢的新战利品和富有创意的水生生物，使你的钓鱼生活不再枯燥，打造一种极好的钓鱼体验。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/3416.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/go-fish) • Modrinth • [Github](https://github.com/Draylar/go-fish)
+
+### Lil' Wings
+
+**内容介绍**
+Lil' Wings 模组添加了 12 种蝴蝶，50 多种新物品，还有一些与蝴蝶相关的方块来丰富世界。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/7958.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lil-wings) • Modrinth • [Github](https://github.com/terrarium-earth/Lil-Wings)
 
 ## 装饰
 
@@ -858,6 +921,34 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/8416.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/instrument) • [Modrinth](https://modrinth.com/mod/instrument%2B%2B) • [Github](https://github.com/Viola-Siemens/Instrument-Plus-Plus)
 
+### Instrument++ 更多乐器
+
+**内容介绍**
+众所周知，音符盒会根据其下方方块的种类，演奏出对应的不同乐器的音色；但原版只提供了 20 种乐器，少到我们很难演奏出乐器丰富、张力较强的歌曲；你为什么不试试这个模组？Instrument++ 为音符盒添加了更多乐器，其中不乏有中国传统乐器！享受音乐的世界吧！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8416.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/instrument) • [Modrinth](https://modrinth.com/mod/instrument%2B%2B) • [Github](https://github.com/Viola-Siemens/Instrument-Plus-Plus)
+
+### Joy of Painting
+
+**内容介绍**
+本模组添加了空白画布和调色板等物品，你可以用它来画自己的画作，并像原版中的画一样挂在墙上；可以自由发挥创造力，体验绘画的乐趣。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6934.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting) • [Modrinth](https://modrinth.com/mod/joy-of-painting) • [Github](https://github.com/ercanserteli/xercamods)
+
+### Lootr
+
+**内容介绍**
+每位玩家都会在其初次（不是无限次的！）打开战利品箱子时获得不同的战利品（除非你修改了配置文件），mod机制将会劝阻玩家不要破坏这一箱子，因为这个箱子还可以造福其它玩家。然而，在潜行状态下，玩家依然可以强制破坏这些箱子。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2924.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric) • Modrinth • [Github](https://github.com/noobanidus/lootr)
+
+### Lovely Snails
+
+**内容介绍**
+这个模组添加了一种全新的可驯服生物：蜗牛。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4140.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lovely-snails) • [Modrinth](https://modrinth.com/mod/lovely_snails) • [Github](https://github.com/LambdAurora/lovely_snails)
+
 ## 辅助
 
 > 整个模组的重点在于脚本，主要使用GUI/按钮或指令来实现功能，通常未添加新的物品/方块。
@@ -1044,9 +1135,65 @@ FTB备份（FTB Backups）的最新版本，支持Minecraft 1.18及以上的版�
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/6554.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/treechop) • Modrinth • [Github](https://github.com/hammertater/treechop)
 
+### KleeSlabs 更好地破坏半砖
+
+**内容介绍**
+此模组允许你打破双层半砖的一半。被打破的一半取决于准心在指哪一半。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/1169.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric) • [Modrinth](https://modrinth.com/mod/kleeslabs/) • [Github](https://github.com/TwelveIterationMods/KleeSlabs)
+
+### Lithium 锂
+
+**内容介绍**
+Lithium 是一个免费且开源的优化模组，与其它优化模组不同，Lithium 致力于着一个标准，即在不修改原版机制的前提下做出更多的优化改进。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2292.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lithium) • [Modrinth](https://www.modrinth.com/mod/lithium) • [Github](https://github.com/CaffeineMC/lithium-fabric)
+
+### Litematica 投影
+
+**内容介绍**
+Litematica（投影）可以将你建造的结构保存为一个结构文件（在下文中有关于结构文件的解释），你可以使用 Litematica 来通过结构文件创建一个全息蓝图（hologram），通过木棍（Litematica 默认使用的操作工具）可以移动全息蓝图的放置位置。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2261.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica) • Modrinth • [Github](https://github.com/maruohon/litematica)
+
+### litematica tool 投影工具
+
+**内容介绍**
+这个mod在游戏中添加了另一个mod（litematica）的激活工具，而不是一个木棍。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5662.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica-tool) • Modrinth • [Github](https://github.com/FinnSetchell/LitematicaTool)
+
+### LazyDFU DFU载入优化
+
+**内容介绍**
+LazyDFU 是一个优化mod，它使DataFixerUpper的初始化变得“懒惰”── 也就是说，它不会立即创建将数据从旧版本的Minecraft迁移到新版本所需的规则，直到它实际需要这样做。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3407.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lazydfu) • [Modrinth](https://www.modrinth.com/mod/lazydfu) • [Github](https://github.com/astei/lazydfu)
+
 ## 魔改
 
 > 以提供给服务器管理人员或整合包作者自定义修改玩法的功能为主的MOD，例如自定义合成表、物品、世界生成器等。
+
+### Ktice KubeJS Tinkers Construct Extra
+
+**内容介绍**
+Ktice允许玩家用KubeJS添加新的匠魂3或者匠神配方，且不限于浇筑配方！正如模组的主要名称一样Ktice是对KubeJS Tinkers Construct的拓展与完善。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8496.html) • Curseforge • [Modrinth](https://modrinth.com/mod/ktice) • [Github](https://github.com/chemiofitor/Ktice)
+
+### KubeJS
+
+**内容介绍**
+‎此 mod 允许您使用 JavaScript 语言创建脚本来管理服务器、添加新的方块和物品、更改配方、为任务模组添加自定义处理程序、更改世界生成器等！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2450.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/kubejs) • [Modrinth](https://modrinth.com/mod/kubejs) • [Github](https://github.com/KubeJS-Mods/KubeJS)
+
+### KubeJS Create
+
+**内容介绍**
+该模组允许使用 KubeJS 脚本编辑和创建 机械动力 的配方。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5157.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) • Modrinth • [Github](https://github.com/KubeJS-Mods/KubeJS-Create)
 
 ## LIB
 
@@ -1191,6 +1338,20 @@ Geckolib 是 Minecraft Java 版正运动学模型动画引擎，它允许玩家�
 此模组为其它模组的前置库；其本身拥有使工具提示 (tooltip) 按换行符换行，并在超出屏幕时自动换行的功能。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/5074.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric) • [Modrinth](https://modrinth.com/mod/iceberg) • [Github](https://github.com/AHilyard/Iceberg)
+
+### Iceberg 冰山
+
+**内容介绍**
+此模组为其它模组的前置库；其本身拥有使工具提示 (tooltip) 按换行符换行，并在超出屏幕时自动换行的功能。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5074.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric) • [Modrinth](https://modrinth.com/mod/iceberg) • [Github](https://github.com/AHilyard/Iceberg)
+
+### Library Ferret
+
+**内容介绍**
+这个模组是一个LIB模组，包含作者的 Minecraft 模组共享代码；本模组仅用于为作者的其他模组提供有用的代码，无更多内容。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5832.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/library-ferret-fabric) • Modrinth • Github
 
 # 六、常见问题Q&A
 
