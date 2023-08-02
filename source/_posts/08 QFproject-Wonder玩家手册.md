@@ -4,7 +4,7 @@ categories: []
 date: '2023-05-19T17:25:53.583633+08:00'
 tags: []
 title: QFproject-Wonder玩家手册
-updated: 2023-8-1T17:41:11.135+8:0
+updated: 2023-8-2T11:16:45.420+8:0
 ---
 # 一、基本条约
 
@@ -157,6 +157,13 @@ Create Crafts & Additions 扩展了机械动力，并充当机械动力的动能
 本模组是一个忠于原版的、细致的模组，目的是为 Minecraft 添加一些好用的设备、飞机。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/8527.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) • [Modrinth](https://modrinth.com/mod/immersive-aircraft) • [Github](https://github.com/Luke100000/ImmersiveAircraft)
+
+### ME Requester
+
+**内容介绍**
+本模组为 AE2 追加了一些内容，它可以很容易地自动保持 AE2 中的 ME网络 内的物品和流体数量。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/10066.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/merequester) • [Modrinth](https://modrinth.com/mod/merequester) • [Github](https://github.com/AlmostReliable/merequester)
 
 ## 魔法
 
@@ -375,6 +382,62 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dragon-dr
 这个模组添加了许多种羊驼，并添加了一系列关于羊驼的物品。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/9714.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/llamarama) • Modrinth • [Github](https://github.com/LlamaramaTeam/Llamarama)
+
+### More Bows: Restrung 更多弓：重振旗鼓
+
+**内容介绍**
+More Bows: Restrung 是More Bows mod的移植/延续，它最初由 GaussFire 创建，并由 iDiamondhunter 维护和更新，直到 Risugami 的 ModLoader 不再更新；此移植基于iDiamondhunter 发布的源代码，旨在如实地重新创建 mod 的原始体验，同时修复错误，引入生活质量变化，并重新添加剪辑创意。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5084.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-bows-restrung) • [Modrinth](https://modrinth.com/mod/more-bows-restrung) • [Github](https://github.com/NeRdTheNed/More-bows)
+
+### Mo' Structures 更多自然生成结构
+
+**内容介绍**
+这是一个冒险向模组，主要增加了新的建筑结构（材料基于原版游戏），同时增强了游戏的探索性。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/3485.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mo-structures) • [Modrinth](https://modrinth.com/mod/mo-structures) • [Github](https://github.com/frqnny/mostructures)
+
+### Moog's Voyager Structures
+
+**内容介绍**
+本模组添加了一些由原版方块与实体组成的建筑结构；部分结构中会生成敌对生物或者是可与玩家交易的村民。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8583.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures) • [Modrinth](https://modrinth.com/mod/moogs-voyager-structures) • [Github](https://github.com/FinnSetchell/MoogsVoyagerStructures)
+
+### Mythic Mounts
+
+**内容介绍**
+添加了 14 种可在世界范围内多种生物群系中找到的可驯服的新生物；包括飞行、水栖和陆生坐骑；每种坐骑都能装备护甲，并拥有额外的物品栏；可爱的幼体变种；生成设置、坐骑属性、实体AI/行为等的可自定义配置文件。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/7192.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mythic-mounts) • Modrinth • Github
+
+### Medieval Origins
+
+**内容介绍**
+本模组是起源的中世纪种族扩展，添加了18+的中世纪传说生物作为可选的种族。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6981.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/medieval-origins) • Modrinth • [Github](https://github.com/Deadbones2000/Medieval-Origins)
+
+### Mystical Oak Tree
+
+**内容介绍**
+Mystical Oak Tree 是一个来自远古的长生超自然生物，它将自己的外形拟态为一棵橡树；你可能会注意到它那截诡异的、像人脸一样的树干，凭借这个结构，它得以与玩家进行超自然形式的对话。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9499.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mystical-oak-tree) • Modrinth • [Github](https://github.com/MehVahdJukaar/mysticaloaktree-multi)
+
+### More Babies
+
+**内容介绍**
+本模组添加了一些生物宝宝。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6635.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-babies) • Modrinth • Github
+
+### Mobvotes Sniffer
+
+**内容介绍**
+这个模组添加了嗅探兽，他们可以被花吸引。
+**详情链接**
+MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mobvotes-sniffer) • Modrinth • Github
 
 ## 农业
 
@@ -693,6 +756,83 @@ Decorative Blocks 是一个小型模组，它新增了一些装饰性方块。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/4854.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/grim-statues) • Modrinth • [Github](https://github.com/TheGrimsey/Statues)
 
+### Mo Glass
+
+**内容介绍**
+此 Mod 添加了各种颜色的玻璃楼梯与玻璃台阶，同时它们也是透明方块。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/7214.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mo-glass) • Modrinth • [Github](https://github.com/Wurst-Imperium/Mo-Glass)
+
+### More Axolotl Variants Mod
+
+**内容介绍**
+此模组为原版的美西螈添加了更多的变种（新增的美西螈变种都有从5到14独立的NBT标签）。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6674.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mavm) • [Modrinth](https://modrinth.com/mod/mavm) • [Github](https://github.com/AkashiiKun/MoreAxolotlVariantsMod-Common)
+
+### MultiBeds
+
+**内容介绍**
+MultiBeds添加了7种款式的床，每种床都可以使用不同的材料制作，并且进行不同程度的自定义。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5937.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/multibeds-fabric) • Modrinth • Github
+
+### Missing Wilds 遗落荒野
+
+**内容介绍**
+遗落荒野添加了在荒野更新中被废弃或删除的内容。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/9090.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/missing-wilds) • [Modrinth](https://modrinth.com/mod/missing-wilds) • [Github](https://github.com/UltrusBot/missing-wilds)
+
+### Macaw's Windows Macaw的窗户
+
+**内容介绍**
+您是否曾经想在Minecraft中使用真正的窗户？ 在面朝大海的时候可以打开而不是只能在里面看着，在这里，你找到了满足你装饰需求的完美mod。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2565.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/macaws-windows) • Modrinth • Github
+
+### Macaw's Lights and Lamps Macaw的灯
+
+**内容介绍**
+添加了多种新的灯。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4221.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps) • Modrinth • Github
+
+### Macaw's Paintings Macaw的画
+
+**内容介绍**
+本模组新增了 33 种不同的画，这些艺术品都由 Peachy 创作。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/5498.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings) • Modrinth • [Github](https://github.com/sketchmacaw/Paintings)
+
+### Macaw's Trapdoors Macaw的活板门
+
+**内容介绍**
+Macaw的装饰品模组系列的新成员，如标题一样添加了大量的活板门。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2918.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors) • Modrinth • Github
+
+### Macaw's Doors Macaw的门
+
+**内容介绍**
+sketch_macaw的装饰作品之一，这个mod为原版添加了更多的门，像障子门，金属门，现代门；不仅如此你也可以在里面发现监狱的大门与如同电影里研究室那样带着黄条的门；加上macaw的其他装饰mod,去Minecraft制作属于你的建筑吧！
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2574.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/macaws-doors) • Modrinth • Github
+
+### Macaw's Roofs Macaw的屋顶
+
+**内容介绍**
+这个mod为mc添加了倾斜的方块！这样你就能拿他来建造现实中的屋顶了（而不是用台阶来模拟~）
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2043.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs) • Modrinth • Github
+
+### Macaw's Fences and Walls Macaw的栅栏与墙
+
+**内容介绍**
+这个模组增加了贴近原版风格的围栏、墙和门。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4795.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) • Modrinth • Github
+
 ## 实用
 
 > 未包含世界观的实用性MOD，例如脑洞大开、小物件等，或是仅在依赖其他模组的基础上进行追加。
@@ -949,6 +1089,27 @@ MC百科 • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/4140.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lovely-snails) • [Modrinth](https://modrinth.com/mod/lovely_snails) • [Github](https://github.com/LambdAurora/lovely_snails)
 
+### More Villagers 更多村民
+
+**内容介绍**
+本模组添加了八种职业的村民，分别是海洋学家、下界学家、林务员、末影学家、工程师、花贩、猎人和矿工。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4435.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric) • Modrinth • [Github](https://github.com/samedifferent/morevillagers)
+
+### Mob Scarecrows
+
+**内容介绍**
+添加了稻草人、玩偶和雕像；他们有着驱赶或者吸引怪物的功能。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6199.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mob-scarecrows) • Modrinth • [Github](https://github.com/ArcanePigeon/MobScarecrow)
+
+### Music Maker Mod
+
+**内容介绍**
+该模组添加了乐谱，玩家可以使用来谱写自己的曲子，支持修改音色、调节音高、调节速率等原版音符盒操作起来很困难的动作。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4176.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/music-maker-mod) • Modrinth • [Github](https://github.com/ercanserteli/xercamods)
+
 ## 辅助
 
 > 整个模组的重点在于脚本，主要使用GUI/按钮或指令来实现功能，通常未添加新的物品/方块。
@@ -1170,6 +1331,27 @@ LazyDFU 是一个优化mod，它使DataFixerUpper的初始化变得“懒惰”�
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/3407.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lazydfu) • [Modrinth](https://www.modrinth.com/mod/lazydfu) • [Github](https://github.com/astei/lazydfu)
 
+### Memory Leak Fix
+
+**内容介绍**
+此模组修复了 Minecraft 中的多个内存泄漏问题。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6593.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) • [Modrinth](https://modrinth.com/mod/memoryleakfix) • [Github](https://github.com/fxmorin/MemoryLeakFix)
+
+### Mobs Attempt Parkour
+
+**内容介绍**
+Mobs Attempt Parkour 给予了敌对生物新的跳跃 AI ，可以帮助它们越过障碍。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2750.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mobs-attempt-parkour) • Modrinth • [Github](https://github.com/miyo6032/mobs-attempt-parkour)
+
+### megane
+
+**内容介绍**
+megane为WTHIT的提示框内添加了机器的能量、液体储量和容器内容等信息。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4511.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/megane) • [Modrinth](https://modrinth.com/mod/megane) • [Github](https://github.com/badasintended/megane)
+
 ## 魔改
 
 > 以提供给服务器管理人员或整合包作者自定义修改玩法的功能为主的MOD，例如自定义合成表、物品、世界生成器等。
@@ -1352,6 +1534,34 @@ Geckolib 是 Minecraft Java 版正运动学模型动画引擎，它允许玩家�
 这个模组是一个LIB模组，包含作者的 Minecraft 模组共享代码；本模组仅用于为作者的其他模组提供有用的代码，无更多内容。
 **详情链接**
 [MC百科](https://www.mcmod.cn/class/5832.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/library-ferret-fabric) • Modrinth • Github
+
+### MaLiLib
+
+**内容介绍**
+MaLiLib 是一个为 Masa 的模组提供客户端侧支持的公共代码库模组。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/2298.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/malilib) • Modrinth • [Github](https://github.com/maruohon/malilib)
+
+### MidnightLib
+
+**内容介绍**
+这是一个库模组，为模组提供了通用的功能与配置系统。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/6776.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/midnightlib) • [Modrinth](https://modrinth.com/mod/midnightlib) • [Github](https://github.com/TeamMidnightDust/MidnightLib)
+
+### Selene
+
+**内容介绍**
+Selene是一个小库，用于作者的模组。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/4159.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/selene) • [Modrinth](https://modrinth.com/mod/moonlight) • [Github](https://github.com/MehVahdJukaar/Moonlight)
+
+### More Axolotl Variants API
+
+**内容介绍**
+More Axolotl Variants API 是一个允许你添加更多美西螈变种的API。
+**详情链接**
+[MC百科](https://www.mcmod.cn/class/8426.html) • [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mavapi) • [Modrinth](https://modrinth.com/mod/mavapi) • [Github](https://github.com/AkashiiKun/MoreAxolotlVariantsAPI-Common)
 
 # 六、常见问题Q&A
 
