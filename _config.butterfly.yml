@@ -435,7 +435,9 @@ footer:
   custom_text: 
     <a href="https://icp.gov.moe/?keyword=20239979" target="_blank">萌ICP备20239979号</a>
     <br>
-    <!DOCTYPE html><html><head><style>.center-text{display:flex;align-items:center;}</style></head><body><div class="center-text"><p>本网站由<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><img src="https://vip2.loli.io/2023/08/17/uamOSnzb6PxFvgH.png" alt="" width="60" height="30"></a>提供CDN加速/云存储服务</p></div></body></html>
+    本网站由又拍云提供CDN加速/云存储服务
+    <br>
+    <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><img src="https://vip2.loli.io/2023/08/17/uamOSnzb6PxFvgH.png" alt="" width="60" height="30"></a>
   copyright: false # Copyright of theme and framework
 
 # Analysis
