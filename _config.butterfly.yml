@@ -435,7 +435,7 @@ footer:
   custom_text: 
     <a href="https://icp.gov.moe/?keyword=20239979" target="_blank">萌ICP备20239979号</a>
     <br>
-    <style>.responsive-image{max-width:100%;height:auto;}</style><p>本网站由<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><img src="https://vip2.loli.io/2023/08/17/uamOSnzb6PxFvgH.png" alt="" class="responsive-image"></a>提供CDN加速/云存储服务</p>
+    <style>.responsive-image{max-width:100%;line-height:1.5;}</style><p>本网站由<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><img src="https://vip2.loli.io/2023/08/17/uamOSnzb6PxFvgH.png" alt="" class="responsive-image"></a>提供CDN加速/云存储服务</p>
   copyright: false # Copyright of theme and framework
 
 # Analysis
