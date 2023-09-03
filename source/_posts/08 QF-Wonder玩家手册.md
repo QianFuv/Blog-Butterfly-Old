@@ -3,8 +3,8 @@ abbrlink: c0d67284
 categories: []
 date: '2023-05-19T17:25:53.583633+08:00'
 tags: []
-title: QFproject-Wonder玩家手册
-updated: 2023-8-2T11:16:45.420+8:0
+title: QF-Wonder玩家手册
+updated: 2023-9-3T21:16:5.792+8:0
 ---
 # 一、基本条约
 
