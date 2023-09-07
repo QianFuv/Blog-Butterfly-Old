@@ -93,3 +93,28 @@
     font-display: swap;
     src: url('../font/CangErYuYangTi.ttf') format("truetype");
 }
+
+/*右下角按钮样式*/
+#rightside #rightside-config-hide {
+    height: auto;
+    opacity: 1;
+    -ms-filter: none;
+    filter: none;
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    -o-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+
+#hide-aside-btn{
+    display: none !important;
+}
+
+#rightside_config{
+    display: none !important;
+}
+
+#modeicon{
+    filter: grayscale(100%);
+}

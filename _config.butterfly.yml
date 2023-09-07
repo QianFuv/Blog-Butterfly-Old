@@ -748,25 +748,25 @@ readmode: false
 
 # dark mode
 darkmode:
-  enable: false
+  enable: true
   # Toggle Button to switch dark/light mode
-  button: false
+  button: true
   # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
   # autoChangeMode: 1  Following System Settings, if the system doesn't support dark mode, it will switch dark mode between 6 pm to 6 am
   # autoChangeMode: 2  Switch dark mode between 6 pm to 6 am
   # autoChangeMode: false
-  autoChangeMode: false
+  autoChangeMode: 2
 
 # show scroll percent in scroll-to-top button
-rightside_scroll_percent: false
+rightside_scroll_percent: true
 
 # Don't modify the following settings unless you know how they work (非必要請不要修改 )
 # Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
 # Don't repeat 不要重複
 rightside_item_order:
   enable: false
-  hide: # readmode,translate,darkmode,hideAside
-  show: # toc,chat,comment
+  hide:  # readmode,translate,darkmode,hideAside
+  show:  # toc,chat,comment
 
 # Lightbox (圖片大圖查看模式)
 # --------------------------------------
@@ -889,7 +889,7 @@ inject:
 
   bottom:
   # - <script src="xxxx"></script>
-  - <script src="/js/fcircle.min.js"></script>
+  - <script src="/js/custom/sun_moon.js" async></script>
 
 
 # CDN

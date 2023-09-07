@@ -40,7 +40,6 @@ if hexo-config('darkmode.enable') || hexo-config('display_mode') == 'dark'
     --timeline-bg: lighten(#121212, 5)
 
     #web_bg:before,
-    #footer:before,
     #page-header:before
       position: absolute
       width: 100%
@@ -148,3 +147,27 @@ if hexo-config('darkmode.enable') || hexo-config('display_mode') == 'dark'
     #card-toc
       +maxWidth900()
         background: lighten(#121212, 5)
+    
+    #gitcanvas
+      filter: invert(100%)
+    
+    #git_container > div.position-relative > div > div.contrib-footer.clearfix.mt-1.mx-3.px-3.pb-1 > div.contrib-legend.text-gray > ul
+      filter: invert(100%)
+
+    #page-header
+      width: 0%
+
+    #nav 
+      filter: brightness(0.8)
+
+    #recent-posts > div > div > a
+      filter: brightness(0.8)
+
+    #post-info > h1
+      filter: brightness(0.8)
+
+    h1, h2, h3, h4, h5, h6
+      filter: brightness(0.8)
+
+    .toc-link.active
+      filter: brightness(0.8)
