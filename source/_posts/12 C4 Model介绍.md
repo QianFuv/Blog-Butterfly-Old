@@ -24,7 +24,7 @@ C4模型被创建出来是为了帮助软件开发团队描述和沟通软件架
 
 <div style="position: relative; padding-bottom: 56.25%; /* 16:9比例的占位符 */">
   <iframe
-    src="https://www.youtube-nocookie.com/embed/x2-rSnhpw0g?si=znLAOOSwdoSFE6Ww&controls=0"
+    src="https://www.youtube-nocookie.com/embed/x2-rSnhpw0g?si=FOFb0uq9xRC1K4_Z"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
