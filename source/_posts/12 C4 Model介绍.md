@@ -22,7 +22,16 @@ C4模型被创建出来是为了帮助软件开发团队描述和沟通软件架
 
 ## 视频介绍
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x2-rSnhpw0g?si=znLAOOSwdoSFE6Ww&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; /* 16:9比例的占位符 */">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/x2-rSnhpw0g?si=znLAOOSwdoSFE6Ww&controls=0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
 
 ## C4模型的优势和作用在哪里？
 
