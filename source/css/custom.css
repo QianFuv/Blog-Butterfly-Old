@@ -81,6 +81,10 @@
     display: none !important;
 }
 
+.xk-card-label {
+    opacity: 0;
+}
+
 /*字体*/
 @font-face {
     font-family: 'SourceCodePro';
@@ -115,6 +119,6 @@
     display: none !important;
 }
 
-#modeicon{
-    filter: grayscale(100%);
+svg {
+    filter: invert(1);
 }
