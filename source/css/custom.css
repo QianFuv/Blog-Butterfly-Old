@@ -119,6 +119,6 @@
     display: none !important;
 }
 
-svg {
+use#modeicon {
     filter: invert(1);
 }
